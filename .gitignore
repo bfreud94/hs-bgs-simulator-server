@@ -1,0 +1,12 @@
+# Node Modules
+/node_modules
+/hearthstone-battlegrounds-simulator-client/node_modules
+
+# Production
+/build
+
+# ESLint Files
+**/.eslintrc.json
+
+# .env
+.env

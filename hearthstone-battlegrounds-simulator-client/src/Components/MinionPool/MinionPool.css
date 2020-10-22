@@ -1,0 +1,26 @@
+.minion-pool-wrapper {
+    display: flex;
+    margin: 0px 100px 100px 225px;
+}
+.minion-pool-statistics-area {
+    margin: 0px 0px 0px 125px;
+}
+.minion-pool-dropdown-wrapper {
+    display: flex;
+    margin: 0px 0px 0px 0px;
+}
+.minion-pool-dropdown {
+    border: 1px solid #e0e0e0 !important;
+    margin: 16px 50px 0px 13px !important;
+    width: 250px;
+    height: 30px;
+}
+.material-ui-card {
+    display: flex;
+    padding: 20px 50px 20px 20px;
+    border: 1px solid gray;
+    box-shadow: 1px 1px gray;
+}
+.minion-pool-tier-header {
+    text-align: center;
+}
