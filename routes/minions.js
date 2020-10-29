@@ -1,11 +1,9 @@
 // Imports for external dependencies
 const express = require('express');
-const fs = require('fs');
 const router = express.Router();
 
 // Imports for internal dependencies
 const Minion = require('../model/Minion');
-const util = require('../util');
 
 router.get(('/minions'), async (request, response) => {
     const minions = await Minion.find();
@@ -22,33 +20,6 @@ router.get(('/minions'), async (request, response) => {
     });
     response.send({
         minions: uniqueMinions
-    });
-});
-
-router.post(('/minions'), async (request, response) => {
-    const numberToWord = {
-        1: 'One', 2: 'Two', 3: 'Three', 4: 'Four', 5: 'Five', 6: 'Six'
-    };
-    const tribes = ['Beast', 'Demon', 'Dragon', 'Elemental', 'Mech', 'Murloc', 'Neutral', 'Pirate'];
-    const promises = [];
-    for (let tier = 1; tier <= 6; tier++) {
-        tribes.forEach((tribe) => {
-            const minionsInTier = fs.readdirSync(`${__dirname}\\..\\assets\\img\\Tier${numberToWord[tier]}\\${tribe}`);
-            minionsInTier.forEach((minion) => {
-                const minionPromise = new Minion({
-                    minionName: util.formatMinionName(minion.substring(0, minion.length - 4)),
-                    tier,
-                    tribe,
-                    imageLocation: `/img/Tier${numberToWord[tier]}/${tribe}/${minion}`
-                });
-                const savedMinionPromise = minionPromise.save();
-                promises.push(savedMinionPromise);
-            });
-        });
-    }
-    const minions = await Promise.all(promises);
-    response.send({
-        minions
     });
 });
 

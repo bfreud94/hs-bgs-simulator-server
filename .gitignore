@@ -10,3 +10,9 @@
 
 # .env
 .env
+
+# Database Loader
+databaseLoader.js
+
+# VSCode
+/.vscode

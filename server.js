@@ -46,9 +46,6 @@ if (process.env.NODE_ENV === 'production') {
     });
 }
 
-// Preventing 304 Status Codes
-app.disable('etag');
-
 // Starting server
 app.listen(port, () => {
     // eslint-disable-next-line no-console

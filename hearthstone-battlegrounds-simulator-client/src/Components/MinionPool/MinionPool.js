@@ -161,8 +161,7 @@ class MinionPool extends Component {
                         <Remove />
                     </IconButton>
                     <span>
-                        Tier
-                        {tier}
+                        Tier {tier}
                     </span>
                     <IconButton onClick={(e) => this.upgradeTier(e, tier)}>
                         <Add />
