@@ -6,12 +6,12 @@ const initialState = {
 
 export default function (state = initialState, action) {
     switch (action.type) {
-        case GET_CURRENT_ROLL:
+        case GET_CURRENT_ROLL: {
             return {
                 ...state,
                 minions: action.payload
             };
-        default:
+        } default:
             return state;
     }
 }

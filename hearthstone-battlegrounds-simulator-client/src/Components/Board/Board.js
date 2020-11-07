@@ -6,6 +6,7 @@ import { getCurrentRoll } from '../../actions/reRollActions';
 import { setTier } from '../../actions/tierActions';
 import { addTavernMinionsToPool, removeTavernMinionsFromPool, uniqueMinions } from '../../actions/poolActions';
 import Card from '../Card/Card';
+import TribalChangeButtons from '../TribalChangeButtons/TribalChangeButtons';
 import store from '../../store';
 import './Board.css';
 
@@ -80,6 +81,7 @@ class Board extends Component {
     render() {
         return (
             <div className='board-wrapper' style={{backgroundImage: `url(${process.env.NODE_ENV === 'development' ? 'http://localhost:8000' : ''}/assets/img/board.png)`}}>
+                <TribalChangeButtons />
                 <React.Fragment>{this.tavernUpAndDownElements()}</React.Fragment>
                 <div className='card-display'>{this.displayCards()}</div>
             </div>

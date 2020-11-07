@@ -1,4 +1,4 @@
-import { ADD_MINION, ADD_TAVERN_MINIONS_TO_POOL, REMOVE_TAVERN_MINIONS_FROM_POOL, GET_UNIQUE_MINIONS, REMOVE_MINION, UPDATE_POOL } from './types';
+import { ADD_MINION, ADD_TAVERN_MINIONS_TO_POOL, ADD_TRIBE, REMOVE_TAVERN_MINIONS_FROM_POOL, GET_UNIQUE_MINIONS, REMOVE_MINION, REMOVE_TRIBE, UPDATE_POOL } from './types';
 import { getCurrentRoll } from './reRollActions';
 import store from '../store';
 
@@ -59,4 +59,25 @@ export const addMinion = (minionToAdd, tier) => (dispatch) => {
             tier
         }
     });
+};
+
+export const addTribe = (tribe) => (dispatch) => {
+    const tier = store.getState().tier;
+    dispatch({
+        type: ADD_TRIBE,
+        payload: {
+            tribe,
+            tier
+        }
+    });
+    dispatch(getCurrentRoll(tier));
+};
+
+export const removeTribe = (tribe) => (dispatch) => {
+    const tier = store.getState().tier;
+    dispatch({
+        type: REMOVE_TRIBE,
+        payload: tribe
+    });
+    dispatch(getCurrentRoll(tier));
 };

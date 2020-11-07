@@ -70,11 +70,12 @@ class MinionPool extends Component {
     }
 
     changeMenuTier = (e) => {
-        const { uniqueMinions } = store.getState().pool;
+        const { uniqueMinions, tribes } = store.getState().pool;
+        const filteredUniqueMinions = uniqueMinions[e.target.value].filter((minion) => tribes.includes(minion.tribe));
         this.setState({
             menuTier: e.target.value,
-            minionSelected: uniqueMinions[e.target.value][0].minionName,
-            imageLocation: uniqueMinions[e.target.value][0].imageLocation
+            minionSelected: filteredUniqueMinions[0].minionName,
+            imageLocation: filteredUniqueMinions[0].imageLocation
         });
     }
 
@@ -146,12 +147,14 @@ class MinionPool extends Component {
 
     menuItems = () => {
         const { menuTier, minionSelected } = this.state;
-        const { uniqueMinions } = store.getState().pool;
+        const { uniqueMinions, tribes } = store.getState().pool;
         const { tier } = store.getState();
         const menuItems = [];
         if (Object.keys(uniqueMinions).length !== 0) {
             uniqueMinions[menuTier].forEach((minion) => {
-                menuItems.push(<MenuItem key={minion.minionName} value={minion.minionName}>{this.formatMinionName(minion.minionName)}</MenuItem>);
+                if (tribes.includes(minion.tribe)) {
+                    menuItems.push(<MenuItem key={minion.minionName} value={minion.minionName}>{this.formatMinionName(minion.minionName)}</MenuItem>);
+                }
             });
         }
         return (

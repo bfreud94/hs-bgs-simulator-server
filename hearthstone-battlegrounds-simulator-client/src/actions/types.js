@@ -6,3 +6,5 @@ export const GET_UNIQUE_MINIONS = 'GET_UNIQUE_MINIONS';
 export const REMOVE_MINION = 'REMOVE_MINION';
 export const SET_TIER = 'SET_TIER';
 export const UPDATE_POOL = 'UPDATE_POOL';
+export const ADD_TRIBE = 'ADD_TRIBE';
+export const REMOVE_TRIBE = 'REMOVE_TRIBE';
