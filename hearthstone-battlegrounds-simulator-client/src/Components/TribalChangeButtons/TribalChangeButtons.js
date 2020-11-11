@@ -1,9 +1,31 @@
+import PropTypes from 'prop-types';
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import PropTypes from 'prop-types';
+import { withStyles } from '@material-ui/core/styles';
 import { addTribe, removeTribe } from '../../actions/poolActions';
+import { Button } from '@material-ui/core';
 import store from '../../store';
 import './TribalChangeButtons.css';
+
+const CustomButton = withStyles({
+    root: {
+        background: 'black',
+        borderRadius: 3,
+        border: 0,
+        color: 'yellow',
+        height: 48,
+        padding: '0 20px',
+        position: 'absolute',
+        right: '-50px',
+        top: '150px',
+        "&:hover": {
+            backgroundColor: "black"
+        }
+    },
+    label: {
+        textTransform: 'capitalize',
+    }
+})(Button);
 
 class TribalChangeButtons extends Component {
 
@@ -22,6 +44,20 @@ class TribalChangeButtons extends Component {
     formatTribe = (tribe) => (
         tribe.charAt(0).toLowerCase() + tribe.slice(1)
     );
+
+    omitTwoRandomTribes = () => {
+        const tribes = store.getState().pool.tribes.filter((tribe) => tribe !== 'Neutral');
+        const allTribes = ['Beast', 'Demon', 'Dragon', 'Elemental', 'Mech', 'Murloc', 'Pirate'];
+        const intersection = allTribes.filter(x => !tribes.includes(x));
+        intersection.forEach((tribe) => this.props.addTribe(tribe));
+        const set = new Set();
+        while(set.size < 2) {
+            set.add(Math.floor(Math.random() * 7));
+        }
+        for(let i of Array.from(set)) {
+            this.props.removeTribe(allTribes[i]);
+        }
+    }
     
     render() {
         const tribes = ['Beast', 'Demon', 'Dragon', 'Elemental', 'Mech', 'Murloc', 'Neutral', 'Pirate'];
@@ -36,6 +72,7 @@ class TribalChangeButtons extends Component {
                         </React.Fragment>
                     : <React.Fragment key={tribe} />
                 )}
+                <CustomButton onClick={() => this.omitTwoRandomTribes()}>Exclude 2 Random Tribes</CustomButton>
             </div>
         );
     }
