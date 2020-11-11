@@ -3,46 +3,19 @@ const express = require('express');
 const router = express.Router();
 
 // Imports for internal dependencies
-const Minion = require('../model/Minion');
+const { uniqueMinions, minionPoolAtTier } = require('../service/minionService');
 
-router.get(('/minions'), async (request, response) => {
-    const minions = await Minion.find();
-    const uniqueMinions = {
-        1: [], 2: [], 3: [], 4: [], 5: [], 6: []
-    };
-    minions.forEach((minion) => {
-        uniqueMinions[minion.tier].push({
-            minionName: minion.minionName,
-            tier: minion.tier,
-            tribe: minion.tribe,
-            imageLocation: minion.imageLocation
-        });
-    });
+router.get(('/uniqueMinions'), async (request, response) => {
+    const minions = await uniqueMinions();
     response.send({
-        minions: uniqueMinions
+        minions
     });
 });
 
-router.get(('/minionsAtTier'), async (request, response) => {
-    const minions = await Minion.find();
-    const minionPool = [];
-    const amountOfMinionsPerTier = {
-        1: 16, 2: 15, 3: 13, 4: 11, 5: 9, 6: 7
-    };
-    minions.forEach((minion) => {
-        for (let copy = 0; copy < amountOfMinionsPerTier[minion.tier]; copy++) {
-            if (request.query.tier === minion.tier) {
-                minionPool.push({
-                    minionName: minion.minionName,
-                    tier: minion.tier,
-                    tribe: minion.tribe,
-                    imageLocation: minion.imageLocation
-                });
-            }
-        }
-    });
+router.get(('/minionPoolAtTier'), async (request, response) => {
+    const minions = await minionPoolAtTier(request.query.tier);
     response.send({
-        minions: minionPool
+        minions
     });
 });
 
