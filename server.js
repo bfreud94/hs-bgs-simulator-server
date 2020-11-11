@@ -2,12 +2,11 @@
 const cors = require('cors');
 const express = require('express');
 const helmet = require('helmet');
-const mongoose = require('mongoose');
 const morgan = require('morgan');
 const path = require('path');
 
-// Dotenv config
-require('dotenv').config();
+// Imports for internal dependencies
+const { connect } = require('./db/connect');
 
 // Routes
 const minionRoute = require('./routes/minions');
@@ -50,10 +49,5 @@ if (process.env.NODE_ENV === 'production') {
 app.listen(port, () => {
     // eslint-disable-next-line no-console
     console.log(`Server started port on ${port}`);
-});
-
-// Connecting to the Database
-mongoose.connect(`${process.env.DB_CONNECTION}`, { useNewUrlParser: true, useUnifiedTopology: true }, () => {
-    // eslint-disable-next-line no-console
-    console.log('Connected to Database');
+    connect();
 });
