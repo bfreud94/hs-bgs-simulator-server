@@ -49,7 +49,3 @@ if (process.env.NODE_ENV === 'production') {
 app.listen(port, () => {
     connect();
 });
-
-module.exports = {
-    app
-};
