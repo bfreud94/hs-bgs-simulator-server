@@ -16,3 +16,6 @@ databaseLoader.js
 
 # VSCode
 /.vscode
+
+# Testing
+/coverage

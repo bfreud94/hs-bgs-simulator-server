@@ -47,7 +47,9 @@ if (process.env.NODE_ENV === 'production') {
 
 // Starting server
 app.listen(port, () => {
-    // eslint-disable-next-line no-console
-    console.log(`Server started port on ${port}`);
     connect();
 });
+
+module.exports = {
+    app
+};
