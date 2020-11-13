@@ -10,8 +10,7 @@ const connect = () => {
         // eslint-disable-next-line no-console
         console.log('Connected to Database');
     });
-}
-
+};
 
 module.exports = {
     connect

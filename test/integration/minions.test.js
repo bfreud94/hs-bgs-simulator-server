@@ -1,6 +1,6 @@
 const request = require('supertest')('http://localhost:8000/hearthstone-battlegrounds-simulator');
 const nock = require('nock');
-const expect = require('chai').expect;
+const { expect } = require('chai');
 const fs = require('fs');
 const path = require('path');
 
@@ -8,8 +8,8 @@ beforeEach(() => {
     const contents = fs.readFileSync(path.resolve(__dirname, '../mockedResponses/uniqueMinions.json'));
     const json = JSON.parse(contents);
     nock('http://localhost:8000/hearthstone-battlegrounds-simulator')
-    .get('/api/uniqueMinions')
-    .reply(200, json);
+        .get('/api/uniqueMinions')
+        .reply(200, json);
 });
 
 describe('Minion API', () => {

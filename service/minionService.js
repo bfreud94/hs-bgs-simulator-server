@@ -3,19 +3,19 @@ const Minion = require('../model/Minion');
 
 const uniqueMinions = async () => {
     const minions = await Minion.find();
-    const uniqueMinions = {
+    const uniqueMinionsObject = {
         1: [], 2: [], 3: [], 4: [], 5: [], 6: []
     };
     minions.forEach((minion) => {
-        uniqueMinions[minion.tier].push({
+        uniqueMinionsObject[minion.tier].push({
             minionName: minion.minionName,
             tier: minion.tier,
             tribe: minion.tribe,
             imageLocation: minion.imageLocation
         });
     });
-    return uniqueMinions;
-}
+    return uniqueMinionsObject;
+};
 
 const minionPoolAtTier = async (tier) => {
     const minions = await Minion.find();
@@ -36,7 +36,7 @@ const minionPoolAtTier = async (tier) => {
         }
     });
     return minionPool;
-}
+};
 
 module.exports = {
     uniqueMinions,
