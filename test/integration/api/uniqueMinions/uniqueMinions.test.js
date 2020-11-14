@@ -5,45 +5,42 @@ const fs = require('fs');
 const nock = require('nock');
 const path = require('path');
 
-// for each tier
-// verify that all minions are there
-// for each minion, verify the path and tier
-
 beforeEach(() => {
-    const contents = fs.readFileSync(path.resolve(__dirname, '../mockedResponses/uniqueMinions.json'));
+    const contents = fs.readFileSync(path.resolve(__dirname, '../../mockedResponses/uniqueMinions/uniqueMinions.json'));
     const json = JSON.parse(contents);
     nock('http://localhost:8000/hearthstone-battlegrounds-simulator')
         .get('/api/uniqueMinions')
         .reply(200, json);
 });
 
-const numberToStringMap = () => ({
+const numberToString = {
     1: 'One',
     2: 'Two',
     3: 'Three',
     4: 'Four',
     5: 'Five',
     6: 'Six'
-});
+};
 
-const totalMinionsMap = () => ({
+const totalMinions = {
     1: 17,
     2: 22,
     3: 27,
     4: 20,
     5: 20,
     6: 15
-});
+};
 
+// Integration test for uniqueMinions API
 describe('Unique Minion API', () => {
-    const totalMinions = totalMinionsMap();
-    const numberToString = numberToStringMap();
     it('Total Minions', (done) => {
         request.get('/api/uniqueMinions').end((err, response) => {
+            // Verify 200 Status
             expect(response.status).to.equal(200);
             const { minions } = response.body;
             let actualSum = 0;
             let expectedSum = 0;
+            // For each tavern tier, verify that the total minions is correct
             Object.keys(minions).forEach((tier, index) => {
                 const minionsAtCurrentTier = minions[tier].length;
                 expect(totalMinions[index + 1]).to.equal(minionsAtCurrentTier);
@@ -54,6 +51,7 @@ describe('Unique Minion API', () => {
             done();
         });
     });
+    // For each tavern tier, verify that each minion tier and imageLocation are correct
     Object.keys(totalMinions).forEach((tavernTier) => {
         it(`Tier ${tavernTier}`, (done) => {
             request.get('/api/uniqueMinions').end((err, response) => {
@@ -63,11 +61,13 @@ describe('Unique Minion API', () => {
                 minions.forEach((minion) => {
                     const { tier, tribe, imageLocation } = minion;
                     const minionName = minion.minionName.replace(/\s/g, '');
+                    // Minion tier equals tavern tier
                     expect(tier).to.equal(tavernTier);
+                    // Concatenate tier, tribe, and minionName to verify imageLocation
                     expect(imageLocation).to.equal(`/img/Tier${numberToString[tier]}/${tribe}/${minionName}.png`);
                     sum++;
                 });
-                expect(minions.length).to.equal(sum);
+                expect(totalMinions[tavernTier]).to.equal(sum);
                 done();
             });
         });

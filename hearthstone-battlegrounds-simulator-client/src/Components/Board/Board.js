@@ -58,13 +58,22 @@ class Board extends Component {
         );
     }
 
+    formatMinionName = (minionName) => {
+        if (minionName.includes('-') || minionName.includes('\'')) {
+            return minionName.replace(/\s/g, '');
+        } else {
+            return minionName.charAt(0) + _.camelCase(minionName.substring(1));
+        }
+
+    };
+
     displayCards = () => {
         const serverUri = process.env.NODE_ENV.trim() === 'development' ? 'http://localhost:8000' : '';
         const { currentRoll } = store.getState();
         const board = [];
         currentRoll.minions.forEach((minion, index) => {
             const numberToWord = { 1: 'One', 2: 'Two', 3: 'Three', 4: 'Four', 5: 'Five', 6: 'Six' };
-            const minionName = minion.minionName.charAt(0) + _.camelCase(minion.minionName.substring(1));
+            const minionName =  this.formatMinionName(minion.minionName);
             const minionTier = numberToWord[minion.tier];
             const imageURL = `${serverUri}/assets/img/Tier${minionTier}/${minion.tribe}/${minionName}.png`;
             board.push(
