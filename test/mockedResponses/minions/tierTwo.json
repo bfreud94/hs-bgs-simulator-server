@@ -1,0 +1,134 @@
+[
+    {
+        "minionName": "Pack Leader",
+        "tier": "2",
+        "tribe": "Beast",
+        "imageLocation": "/img/TierTwo/Beast/PackLeader.png"
+    },
+    {
+        "minionName": "Kindly Grandmother",
+        "tier": "2",
+        "tribe": "Beast",
+        "imageLocation": "/img/TierTwo/Beast/KindlyGrandmother.png"
+    },
+    {
+        "minionName": "Rabid Saurolisk",
+        "tier": "2",
+        "tribe": "Beast",
+        "imageLocation": "/img/TierTwo/Beast/RabidSaurolisk.png"
+    },
+    {
+        "minionName": "Party Elemental",
+        "tier": "2",
+        "tribe": "Elemental",
+        "imageLocation": "/img/TierTwo/Elemental/PartyElemental.png"
+    },
+    {
+        "minionName": "Glyph Guardian",
+        "tier": "2",
+        "tribe": "Dragon",
+        "imageLocation": "/img/TierTwo/Dragon/GlyphGuardian.png"
+    },
+    {
+        "minionName": "Imprisoner",
+        "tier": "2",
+        "tribe": "Demon",
+        "imageLocation": "/img/TierTwo/Demon/Imprisoner.png"
+    },
+    {
+        "minionName": "Waxrider Togwaggle",
+        "tier": "2",
+        "tribe": "Dragon",
+        "imageLocation": "/img/TierTwo/Dragon/WaxriderTogwaggle.png"
+    },
+    {
+        "minionName": "Harvest Golem",
+        "tier": "2",
+        "tribe": "Mech",
+        "imageLocation": "/img/TierTwo/Mech/HarvestGolem.png"
+    },
+    {
+        "minionName": "Molten Rock",
+        "tier": "2",
+        "tribe": "Elemental",
+        "imageLocation": "/img/TierTwo/Elemental/MoltenRock.png"
+    },
+    {
+        "minionName": "Nathrezim Overseer",
+        "tier": "2",
+        "tribe": "Demon",
+        "imageLocation": "/img/TierTwo/Demon/NathrezimOverseer.png"
+    },
+    {
+        "minionName": "Kaboom Bot",
+        "tier": "2",
+        "tribe": "Mech",
+        "imageLocation": "/img/TierTwo/Mech/KaboomBot.png"
+    },
+    {
+        "minionName": "Steward Of Time",
+        "tier": "2",
+        "tribe": "Dragon",
+        "imageLocation": "/img/TierTwo/Dragon/StewardOfTime.png"
+    },
+    {
+        "minionName": "Metaltooth Leaper",
+        "tier": "2",
+        "tribe": "Mech",
+        "imageLocation": "/img/TierTwo/Mech/MetaltoothLeaper.png"
+    },
+    {
+        "minionName": "Murloc Warleader",
+        "tier": "2",
+        "tribe": "Murloc",
+        "imageLocation": "/img/TierTwo/Murloc/MurlocWarleader.png"
+    },
+    {
+        "minionName": "Old Murk Eye",
+        "tier": "2",
+        "tribe": "Murloc",
+        "imageLocation": "/img/TierTwo/Murloc/OldMurkEye.png"
+    },
+    {
+        "minionName": "Menagerie Mug",
+        "tier": "2",
+        "tribe": "Neutral",
+        "imageLocation": "/img/TierTwo/Neutral/MenagerieMug.png"
+    },
+    {
+        "minionName": "Selfless Hero",
+        "tier": "2",
+        "tribe": "Neutral",
+        "imageLocation": "/img/TierTwo/Neutral/SelflessHero.png"
+    },
+    {
+        "minionName": "Unstable Ghoul",
+        "tier": "2",
+        "tribe": "Neutral",
+        "imageLocation": "/img/TierTwo/Neutral/UnstableGhoul.png"
+    },
+    {
+        "minionName": "Southsea Captain",
+        "tier": "2",
+        "tribe": "Pirate",
+        "imageLocation": "/img/TierTwo/Pirate/SouthseaCaptain.png"
+    },
+    {
+        "minionName": "Freedealing Gambler",
+        "tier": "2",
+        "tribe": "Pirate",
+        "imageLocation": "/img/TierTwo/Pirate/FreedealingGambler.png"
+    },
+    {
+        "minionName": "Yo Ho Ogre",
+        "tier": "2",
+        "tribe": "Pirate",
+        "imageLocation": "/img/TierTwo/Pirate/YoHoOgre.png"
+    },
+    {
+        "minionName": "Spawn Of NZoth",
+        "tier": "2",
+        "tribe": "Neutral",
+        "imageLocation": "/img/TierTwo/Neutral/SpawnOfNZoth.png"
+    }
+]

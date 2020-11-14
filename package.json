@@ -10,10 +10,10 @@
     "dev": "concurrently \"cd hearthstone-battlegrounds-simulator-client && npm start\" \"nodemon server.js\"",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix hearthstone-battlegrounds-simulator-client && npm run build --prefix hearthstone-battlegrounds-simulator-client",
     "database-loader": "nodemon databaseLoader.js",
-    "test": "jest --testEnvironment=node --coverage --forceExit",
+    "test": "jest --testEnvironment=node --coverage --no-cache --forceExit",
     "lint": "eslint --ignore-path .gitignore ."
   },
-  "author": "",
+  "author": "Ben Freudman",
   "license": "ISC",
   "dependencies": {
     "chai": "^4.2.0",
@@ -34,5 +34,12 @@
     "eslint-plugin-import": "^2.22.1",
     "jest": "^26.6.0",
     "supertest": "^6.0.1"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "collectCoverageFrom": ["*.js", "routes/*.js", "service/*.js", "model/*.js"],
+    "testPathIgnorePatterns" : [
+        "hearthstone-battlegrounds-simulator-client/" 
+      ]
   }
 }

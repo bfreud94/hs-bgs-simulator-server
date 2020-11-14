@@ -1,0 +1,104 @@
+[
+    {
+        "minionName": "Alleycat",
+        "tier": "1",
+        "tribe": "Beast",
+        "imageLocation": "/img/TierOne/Beast/Alleycat.png"
+    },
+    {
+        "minionName": "Scavenging Hyena",
+        "tier": "1",
+        "tribe": "Beast",
+        "imageLocation": "/img/TierOne/Beast/ScavengingHyena.png"
+    },
+    {
+        "minionName": "Wrath Weaver",
+        "tier": "1",
+        "tribe": "Demon",
+        "imageLocation": "/img/TierOne/Demon/WrathWeaver.png"
+    },
+    {
+        "minionName": "Vulgar Homunculus",
+        "tier": "1",
+        "tribe": "Demon",
+        "imageLocation": "/img/TierOne/Demon/VulgarHomunculus.png"
+    },
+    {
+        "minionName": "Fiendish Servant",
+        "tier": "1",
+        "tribe": "Demon",
+        "imageLocation": "/img/TierOne/Demon/FiendishServant.png"
+    },
+    {
+        "minionName": "Red Whelp",
+        "tier": "1",
+        "tribe": "Dragon",
+        "imageLocation": "/img/TierOne/Dragon/RedWhelp.png"
+    },
+    {
+        "minionName": "Dragonspawn Lieutenant",
+        "tier": "1",
+        "tribe": "Dragon",
+        "imageLocation": "/img/TierOne/Dragon/DragonspawnLieutenant.png"
+    },
+    {
+        "minionName": "Refreshing Anomaly",
+        "tier": "1",
+        "tribe": "Elemental",
+        "imageLocation": "/img/TierOne/Elemental/RefreshingAnomaly.png"
+    },
+    {
+        "minionName": "Sellemental",
+        "tier": "1",
+        "tribe": "Elemental",
+        "imageLocation": "/img/TierOne/Elemental/Sellemental.png"
+    },
+    {
+        "minionName": "Murloc Tidehunter",
+        "tier": "1",
+        "tribe": "Murloc",
+        "imageLocation": "/img/TierOne/Murloc/MurlocTidehunter.png"
+    },
+    {
+        "minionName": "Micro Machine",
+        "tier": "1",
+        "tribe": "Mech",
+        "imageLocation": "/img/TierOne/Mech/MicroMachine.png"
+    },
+    {
+        "minionName": "Deck Swabbie",
+        "tier": "1",
+        "tribe": "Pirate",
+        "imageLocation": "/img/TierOne/Pirate/DeckSwabbie.png"
+    },
+    {
+        "minionName": "Rockpool Hunter",
+        "tier": "1",
+        "tribe": "Murloc",
+        "imageLocation": "/img/TierOne/Murloc/RockpoolHunter.png"
+    },
+    {
+        "minionName": "Righteous Protector",
+        "tier": "1",
+        "tribe": "Neutral",
+        "imageLocation": "/img/TierOne/Neutral/RighteousProtector.png"
+    },
+    {
+        "minionName": "Scallywag",
+        "tier": "1",
+        "tribe": "Pirate",
+        "imageLocation": "/img/TierOne/Pirate/Scallywag.png"
+    },
+    {
+        "minionName": "Murloc Tidecaller",
+        "tier": "1",
+        "tribe": "Murloc",
+        "imageLocation": "/img/TierOne/Murloc/MurlocTidecaller.png"
+    },
+    {
+        "minionName": "Micro Mummy",
+        "tier": "1",
+        "tribe": "Mech",
+        "imageLocation": "/img/TierOne/Mech/MicroMummy.png"
+    }
+]

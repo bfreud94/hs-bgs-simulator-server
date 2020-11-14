@@ -1,0 +1,92 @@
+[
+    {
+        "minionName": "Ghastcoiler",
+        "tier": "6",
+        "tribe": "Beast",
+        "imageLocation": "/img/TierSix/Beast/Ghastcoiler.png"
+    },
+    {
+        "minionName": "Kalecgos Arcane Aspect",
+        "tier": "6",
+        "tribe": "Dragon",
+        "imageLocation": "/img/TierSix/Dragon/KalecgosArcaneAspect.png"
+    },
+    {
+        "minionName": "Nadina The Red",
+        "tier": "6",
+        "tribe": "Dragon",
+        "imageLocation": "/img/TierSix/Dragon/NadinaTheRed.png"
+    },
+    {
+        "minionName": "Maexxna",
+        "tier": "6",
+        "tribe": "Beast",
+        "imageLocation": "/img/TierSix/Beast/Maexxna.png"
+    },
+    {
+        "minionName": "Lieutenant Garr",
+        "tier": "6",
+        "tribe": "Elemental",
+        "imageLocation": "/img/TierSix/Elemental/LieutenantGarr.png"
+    },
+    {
+        "minionName": "Gentle Djinni",
+        "tier": "6",
+        "tribe": "Elemental",
+        "imageLocation": "/img/TierSix/Elemental/GentleDjinni.png"
+    },
+    {
+        "minionName": "Goldrinn The Great Wolf",
+        "tier": "6",
+        "tribe": "Beast",
+        "imageLocation": "/img/TierSix/Beast/GoldrinnTheGreatWolf.png"
+    },
+    {
+        "minionName": "Imp Mama",
+        "tier": "6",
+        "tribe": "Demon",
+        "imageLocation": "/img/TierSix/Demon/ImpMama.png"
+    },
+    {
+        "minionName": "Lil Rag",
+        "tier": "6",
+        "tribe": "Elemental",
+        "imageLocation": "/img/TierSix/Elemental/LilRag.png"
+    },
+    {
+        "minionName": "Amalgadon",
+        "tier": "6",
+        "tribe": "Neutral",
+        "imageLocation": "/img/TierSix/Neutral/Amalgadon.png"
+    },
+    {
+        "minionName": "Foe Reaper 4000",
+        "tier": "6",
+        "tribe": "Mech",
+        "imageLocation": "/img/TierSix/Mech/FoeReaper4000.png"
+    },
+    {
+        "minionName": "Kangors Apprentice",
+        "tier": "6",
+        "tribe": "Mech",
+        "imageLocation": "/img/TierSix/Mech/KangorsApprentice.png"
+    },
+    {
+        "minionName": "Zapp Slywick",
+        "tier": "6",
+        "tribe": "Neutral",
+        "imageLocation": "/img/TierSix/Neutral/ZappSlywick.png"
+    },
+    {
+        "minionName": "The Tide Razor",
+        "tier": "6",
+        "tribe": "Pirate",
+        "imageLocation": "/img/TierSix/Pirate/TheTideRazor.png"
+    },
+    {
+        "minionName": "Dread Admiral Eliza",
+        "tier": "6",
+        "tribe": "Pirate",
+        "imageLocation": "/img/TierSix/Pirate/DreadAdmiralEliza.png"
+    }
+]
