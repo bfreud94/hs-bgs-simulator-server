@@ -41,6 +41,9 @@ describe('Minions at Tier 6', () => {
             // Verify 200 Status
             expect(response.status).to.equal(200);
             const { minions } = response.body;
+            // Verify response headers
+            expect(Object.keys(response.body).length).to.equal(1);
+            expect(Object.keys(response.body)[0]).to.equal('minions');
             tierSixMinions.forEach((minion) => {
                 const totalMinionCopies = minions.filter((minionCopy) => minion === minionCopy.minionName).length;
                 expect(totalMinionCopies).to.equal(tierSixCopies);

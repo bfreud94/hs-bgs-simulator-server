@@ -42,6 +42,9 @@ describe('Minions at Tier 1', () => {
         request.get('/api/minionPoolAtTier?tier=1').end((err, response) => {
             // Verify 200 Status
             expect(response.status).to.equal(200);
+            // Verify response headers
+            expect(Object.keys(response.body).length).to.equal(1);
+            expect(Object.keys(response.body)[0]).to.equal('minions');
             const { minions } = response.body;
             tierOneMinions.forEach((minion) => {
                 const totalMinionCopies = minions.filter((minionCopy) => minion === minionCopy.minionName).length;

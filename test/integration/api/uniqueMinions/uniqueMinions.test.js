@@ -37,6 +37,9 @@ describe('Unique Minion API', () => {
         request.get('/api/uniqueMinions').end((err, response) => {
             // Verify 200 Status
             expect(response.status).to.equal(200);
+            // Verify response headers
+            expect(Object.keys(response.body).length).to.equal(1);
+            expect(Object.keys(response.body)[0]).to.equal('minions');
             const { minions } = response.body;
             let actualSum = 0;
             let expectedSum = 0;
