@@ -1,24 +1,28 @@
 // Imports for internal dependencies
+// Imports for external dependencies
 const { expect } = require('chai');
+
+// Imports for internal dependencies
 const Minion = require('../../../model/Minion');
+const alleycat = require('../../mockedResponses/db/alleycat');
 
 require('dotenv').config();
 jest.mock('../../../db/connect');
 
 beforeEach(() => {
-    Minion.find = jest.fn().mockResolvedValue({
-        _id: '123',
-        name: 'Ben',
-        __v: 0
-    });
+    Minion.find = jest.fn().mockResolvedValue(alleycat);
 });
 
 describe('Mongoose Minion Model', () => {
     it('Testing payload', async (done) => {
         const minion = await Minion.find();
-        expect(minion._id).to.equal('123');
-        expect(minion.name).to.equal('Ben');
-        expect(minion.__v).to.equal(0);
+        const keys = Object.keys(minion);
+        expect(keys.includes('_id')).to.equal(true);
+        expect(keys.includes('minionName')).to.equal(true);
+        expect(keys.includes('tier')).to.equal(true);
+        expect(keys.includes('tribe')).to.equal(true);
+        expect(keys.includes('imageLocation')).to.equal(true);
+        expect(keys.includes('__v')).to.equal(true);
         done();
     });
 });

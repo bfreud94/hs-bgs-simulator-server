@@ -10,9 +10,9 @@
     "dev": "concurrently \"cd hearthstone-battlegrounds-simulator-client && npm start\" \"nodemon server.js\"",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix hearthstone-battlegrounds-simulator-client && npm run build --prefix hearthstone-battlegrounds-simulator-client",
     "database-loader": "node databaseLoader.js",
-    "test": "jest --testEnvironment=node --coverage --no-cache --forceExit",
-    "integration-tests": "jest --testPathPattern=test/integration/ --testEnvironment=node --coverage=false --no-cache --forceExit",
-    "unit-tests": "jest --testPathPattern=test/unit/ --testEnvironment=node --coverage=false --no-cache --forceExit",
+    "test": "jest --testEnvironment=node --coverage --detectOpenHandles --no-cache --forceExit",
+    "integration-tests": "jest --testPathPattern=test/integration/ --testEnvironment=node --coverage=false --detectOpenHandles --no-cache --forceExit",
+    "unit-tests": "jest --testPathPattern=test/unit/ --testEnvironment=node --coverage=false --detectOpenHandles --no-cache --forceExit",
     "lint": "eslint --ignore-path .gitignore ."
   },
   "author": "Ben Freudman",

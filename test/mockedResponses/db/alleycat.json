@@ -1,0 +1,12 @@
+{
+    "_id": {
+        "$oid": "123456"
+    },
+    "minionName": "Alleycat",
+    "tier": "1",
+    "tribe": "Beast",
+    "imageLocation": "/img/TierOne/Beast/Alleycat.png",
+    "__v": {
+        "$numberInt": "0"
+    }
+}
