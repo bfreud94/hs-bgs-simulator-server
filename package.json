@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix hearthstone-battlegrounds-simulator-client",
-    "start": "nodemon server.js",
+    "start": "node server.js",
     "client": "npm start --prefix hearthstone-battlegrounds-simulator-client",
     "dev": "concurrently \"cd hearthstone-battlegrounds-simulator-client && npm start\" \"nodemon server.js\"",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix hearthstone-battlegrounds-simulator-client && npm run build --prefix hearthstone-battlegrounds-simulator-client",
