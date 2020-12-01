@@ -33,7 +33,7 @@ const tierTwoMinions = [
 const tierTwoCopies = 15;
 
 beforeEach(() => {
-    const contents = fs.readFileSync(path.resolve(__dirname, '../../../mockedResponses/minionPoolAtTier/minionPoolAtTier2.json'));
+    const contents = fs.readFileSync(path.resolve(__dirname, '../../../mockedResponses/minionPoolAtTier/minionPoolAtTierTwo.json'));
     const json = JSON.parse(contents);
     nock('http://localhost:8000/hearthstone-battlegrounds-simulator')
         .get('/api/minionPoolAtTier?tier=2')

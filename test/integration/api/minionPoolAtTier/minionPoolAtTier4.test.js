@@ -31,7 +31,7 @@ const tierFourMinions = [
 const tierFourCopies = 11;
 
 beforeEach(() => {
-    const contents = fs.readFileSync(path.resolve(__dirname, '../../../mockedResponses/minionPoolAtTier/minionPoolAtTier4.json'));
+    const contents = fs.readFileSync(path.resolve(__dirname, '../../../mockedResponses/minionPoolAtTier/minionPoolAtTierFour.json'));
     const json = JSON.parse(contents);
     nock('http://localhost:8000/hearthstone-battlegrounds-simulator')
         .get('/api/minionPoolAtTier?tier=4')
