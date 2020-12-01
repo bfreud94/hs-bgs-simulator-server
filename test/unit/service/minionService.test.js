@@ -55,7 +55,7 @@ describe('Minion Service', () => {
         ];
         const tierOneCopies = 16;
         tierOneMinions.forEach((tierOneMinion) => {
-            const amountOfMinion = minionPoolAtTierOneReturnValue.filter((minion) => minion.name === tierOneMinion.name).length;
+            const amountOfMinion = minionPoolAtTierOneReturnValue.filter((minion) => minion.minionName === tierOneMinion).length;
             expect(amountOfMinion).to.equal(tierOneCopies);
         });
         expect(minionPoolAtTierOneReturnValue.length).to.equal(minionPoolAtTierOne.minions.length);
@@ -89,7 +89,7 @@ describe('Minion Service', () => {
         ];
         const tierTwoCopies = 15;
         tierTwoMinions.forEach((tierTwoMinion) => {
-            const amountOfMinion = minionPoolAtTierTwoReturnValue.filter((minion) => minion.name === tierTwoMinion.name).length;
+            const amountOfMinion = minionPoolAtTierTwoReturnValue.filter((minion) => minion.minionName === tierTwoMinion).length;
             expect(amountOfMinion).to.equal(tierTwoCopies);
         });
         expect(minionPoolAtTierTwoReturnValue.length).to.equal(minionPoolAtTierTwo.minions.length);
@@ -128,7 +128,7 @@ describe('Minion Service', () => {
         ];
         const tierThreeCopies = 13;
         tierThreeMinions.forEach((tierThreeMinion) => {
-            const amountOfMinion = minionPoolAtTierThreeReturnValue.filter((minion) => minion.name === tierThreeMinion.name).length;
+            const amountOfMinion = minionPoolAtTierThreeReturnValue.filter((minion) => minion.minionName === tierThreeMinion).length;
             expect(amountOfMinion).to.equal(tierThreeCopies);
         });
         expect(minionPoolAtTierThreeReturnValue.length).to.equal(minionPoolAtTierThree.minions.length);
@@ -160,7 +160,7 @@ describe('Minion Service', () => {
         ];
         const tierFourCopies = 11;
         tierFourMinions.forEach((tierFourMinion) => {
-            const amountOfMinion = minionPoolAtTierFourReturnValue.filter((minion) => minion.name === tierFourMinion.name).length;
+            const amountOfMinion = minionPoolAtTierFourReturnValue.filter((minion) => minion.minionName === tierFourMinion).length;
             expect(amountOfMinion).to.equal(tierFourCopies);
         });
         expect(minionPoolAtTierFourReturnValue.length).to.equal(minionPoolAtTierFour.minions.length);
@@ -192,7 +192,7 @@ describe('Minion Service', () => {
         ];
         const tierFiveCopies = 9;
         tierFiveMinions.forEach((tierFiveMinion) => {
-            const amountOfMinion = minionPoolAtTierFiveReturnValue.filter((minion) => minion.name === tierFiveMinion.name).length;
+            const amountOfMinion = minionPoolAtTierFiveReturnValue.filter((minion) => minion.minionName === tierFiveMinion).length;
             expect(amountOfMinion).to.equal(tierFiveCopies);
         });
         expect(minionPoolAtTierFiveReturnValue.length).to.equal(minionPoolAtTierFive.minions.length);
@@ -219,7 +219,7 @@ describe('Minion Service', () => {
         ];
         const tierSixCopies = 7;
         tierSixMinions.forEach((tierSixMinion) => {
-            const amountOfMinion = minionPoolAtTierSixReturnValue.filter((minion) => minion.name === tierSixMinion.name).length;
+            const amountOfMinion = minionPoolAtTierSixReturnValue.filter((minion) => minion.minionName === tierSixMinion).length;
             expect(amountOfMinion).to.equal(tierSixCopies);
         });
         expect(minionPoolAtTierSixReturnValue.length).to.equal(minionPoolAtTierSix.minions.length);

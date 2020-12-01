@@ -1,5 +1,5 @@
 // Imports for external dependencies
-const request = require('supertest')('http://localhost:8000/hearthstone-battlegrounds-simulator');
+const request = require('supertest')('http://localhost:8000');
 const { expect } = require('chai');
 const fs = require('fs');
 const nock = require('nock');
@@ -40,7 +40,7 @@ const tierThreeCopies = 13;
 beforeEach(() => {
     const contents = fs.readFileSync(path.resolve(__dirname, '../../../mockedResponses/minionPoolAtTier/minionPoolAtTierThree.json'));
     const json = JSON.parse(contents);
-    nock('http://localhost:8000/hearthstone-battlegrounds-simulator')
+    nock('http://localhost:8000')
         .get('/api/minionPoolAtTier?tier=3')
         .reply(200, json);
 });
