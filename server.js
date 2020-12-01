@@ -32,7 +32,7 @@ app.use(cors({
 }));
 
 // Use Express Routes
-app.use('/hearthstone-battlegrounds-simulator/api/', minionRoute);
+app.use('/api/', minionRoute);
 
 // Use static content
 app.use('/assets', express.static(path.join(__dirname, 'assets')));

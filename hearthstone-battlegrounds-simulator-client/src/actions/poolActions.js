@@ -5,7 +5,7 @@ import store from '../store';
 const serverUri = process.env.NODE_ENV.trim() === 'development' ? 'http://localhost:8000' : '';
 
 export const uniqueMinions = () => async (dispatch) => {
-    const uniqueMinions = await (await fetch(`${serverUri}/hearthstone-battlegrounds-simulator/api/uniqueMinions`)).json();
+    const uniqueMinions = await (await fetch(`${serverUri}/api/uniqueMinions`)).json();
     dispatch({
         type: GET_UNIQUE_MINIONS,
         payload: uniqueMinions.minions
@@ -13,7 +13,7 @@ export const uniqueMinions = () => async (dispatch) => {
 };
 
 export const addTavernMinionsToPool = (tier) => async (dispatch) => {
-    const pool = await (await fetch(`${serverUri}/hearthstone-battlegrounds-simulator/api/minionPoolAtTier?tier=${tier}`)).json();
+    const pool = await (await fetch(`${serverUri}/api/minionPoolAtTier?tier=${tier}`)).json();
     dispatch({
         type: ADD_TAVERN_MINIONS_TO_POOL,
         payload: pool.minions
