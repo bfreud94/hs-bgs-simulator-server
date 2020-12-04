@@ -29,6 +29,7 @@ describe('Minion Service', () => {
             sum += uniqueMinionsReturnValue[tavernTier].length;
         });
         const expectedMinionTotal = await Minion.find();
+        expect(typeof uniqueMinionsReturnValue).to.equal('object');
         expect(sum).to.equal(expectedMinionTotal.length);
         done();
     });
@@ -58,6 +59,7 @@ describe('Minion Service', () => {
             const amountOfMinion = minionPoolAtTierOneReturnValue.filter((minion) => minion.minionName === tierOneMinion).length;
             expect(amountOfMinion).to.equal(tierOneCopies);
         });
+        expect(typeof minionPoolAtTierOneReturnValue).to.equal('object');
         expect(minionPoolAtTierOneReturnValue.length).to.equal(minionPoolAtTierOne.minions.length);
         done();
     });
@@ -92,6 +94,7 @@ describe('Minion Service', () => {
             const amountOfMinion = minionPoolAtTierTwoReturnValue.filter((minion) => minion.minionName === tierTwoMinion).length;
             expect(amountOfMinion).to.equal(tierTwoCopies);
         });
+        expect(typeof minionPoolAtTierTwoReturnValue).to.equal('object');
         expect(minionPoolAtTierTwoReturnValue.length).to.equal(minionPoolAtTierTwo.minions.length);
         done();
     });
@@ -131,6 +134,7 @@ describe('Minion Service', () => {
             const amountOfMinion = minionPoolAtTierThreeReturnValue.filter((minion) => minion.minionName === tierThreeMinion).length;
             expect(amountOfMinion).to.equal(tierThreeCopies);
         });
+        expect(typeof minionPoolAtTierThreeReturnValue).to.equal('object');
         expect(minionPoolAtTierThreeReturnValue.length).to.equal(minionPoolAtTierThree.minions.length);
         done();
     });
@@ -163,6 +167,7 @@ describe('Minion Service', () => {
             const amountOfMinion = minionPoolAtTierFourReturnValue.filter((minion) => minion.minionName === tierFourMinion).length;
             expect(amountOfMinion).to.equal(tierFourCopies);
         });
+        expect(typeof minionPoolAtTierFourReturnValue).to.equal('object');
         expect(minionPoolAtTierFourReturnValue.length).to.equal(minionPoolAtTierFour.minions.length);
         done();
     });
@@ -195,6 +200,7 @@ describe('Minion Service', () => {
             const amountOfMinion = minionPoolAtTierFiveReturnValue.filter((minion) => minion.minionName === tierFiveMinion).length;
             expect(amountOfMinion).to.equal(tierFiveCopies);
         });
+        expect(typeof minionPoolAtTierFiveReturnValue).to.equal('object');
         expect(minionPoolAtTierFiveReturnValue.length).to.equal(minionPoolAtTierFive.minions.length);
         done();
     });
@@ -222,6 +228,7 @@ describe('Minion Service', () => {
             const amountOfMinion = minionPoolAtTierSixReturnValue.filter((minion) => minion.minionName === tierSixMinion).length;
             expect(amountOfMinion).to.equal(tierSixCopies);
         });
+        expect(typeof minionPoolAtTierSixReturnValue).to.equal('object');
         expect(minionPoolAtTierSixReturnValue.length).to.equal(minionPoolAtTierSix.minions.length);
         done();
     });
