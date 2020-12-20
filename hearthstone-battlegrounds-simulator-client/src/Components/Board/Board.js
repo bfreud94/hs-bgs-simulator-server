@@ -72,10 +72,7 @@ class Board extends Component {
         const { currentRoll } = store.getState();
         const board = [];
         currentRoll.minions.forEach((minion, index) => {
-            const numberToWord = { 1: 'One', 2: 'Two', 3: 'Three', 4: 'Four', 5: 'Five', 6: 'Six' };
-            const minionName =  this.formatMinionName(minion.minionName);
-            const minionTier = numberToWord[minion.tier];
-            const imageURL = `${serverUri}/assets/img/Tier${minionTier}/${minion.tribe}/${minionName}.png`;
+            const imageURL = `${serverUri}/assets/${minion.imageLocation}`;
             board.push(
                 <Card dimensions={[150, 208]} key={minion.minionName + index} imageURL={imageURL} alternativeText={minion.minionName} />
             );
