@@ -1,1084 +1,1192 @@
 {
     "minions": [
-      {
-        "minionName": "Ironhide Direhorn",
-        "tier": "5",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png"
-      },
-      {
-        "minionName": "Ironhide Direhorn",
-        "tier": "5",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png"
-      },
-      {
-        "minionName": "Ironhide Direhorn",
-        "tier": "5",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png"
-      },
-      {
-        "minionName": "Ironhide Direhorn",
-        "tier": "5",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png"
-      },
-      {
-        "minionName": "Ironhide Direhorn",
-        "tier": "5",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png"
-      },
-      {
-        "minionName": "Ironhide Direhorn",
-        "tier": "5",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png"
-      },
-      {
-        "minionName": "Ironhide Direhorn",
-        "tier": "5",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png"
-      },
-      {
-        "minionName": "Ironhide Direhorn",
-        "tier": "5",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png"
-      },
-      {
-        "minionName": "Ironhide Direhorn",
-        "tier": "5",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png"
-      },
-      {
-        "minionName": "Annihilan Battlemaster",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png"
-      },
-      {
-        "minionName": "Annihilan Battlemaster",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png"
-      },
-      {
-        "minionName": "Annihilan Battlemaster",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png"
-      },
-      {
-        "minionName": "Annihilan Battlemaster",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png"
-      },
-      {
-        "minionName": "Annihilan Battlemaster",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png"
-      },
-      {
-        "minionName": "Annihilan Battlemaster",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png"
-      },
-      {
-        "minionName": "Annihilan Battlemaster",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png"
-      },
-      {
-        "minionName": "Annihilan Battlemaster",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png"
-      },
-      {
-        "minionName": "Annihilan Battlemaster",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png"
-      },
-      {
-        "minionName": "Mama Bear",
-        "tier": "5",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierFive/Beast/MamaBear.png"
-      },
-      {
-        "minionName": "Mama Bear",
-        "tier": "5",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierFive/Beast/MamaBear.png"
-      },
-      {
-        "minionName": "Mama Bear",
-        "tier": "5",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierFive/Beast/MamaBear.png"
-      },
-      {
-        "minionName": "Mama Bear",
-        "tier": "5",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierFive/Beast/MamaBear.png"
-      },
-      {
-        "minionName": "Mama Bear",
-        "tier": "5",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierFive/Beast/MamaBear.png"
-      },
-      {
-        "minionName": "Mama Bear",
-        "tier": "5",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierFive/Beast/MamaBear.png"
-      },
-      {
-        "minionName": "Mama Bear",
-        "tier": "5",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierFive/Beast/MamaBear.png"
-      },
-      {
-        "minionName": "Mama Bear",
-        "tier": "5",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierFive/Beast/MamaBear.png"
-      },
-      {
-        "minionName": "Mama Bear",
-        "tier": "5",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierFive/Beast/MamaBear.png"
-      },
-      {
-        "minionName": "Mal'Ganis",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/Mal'Ganis.png"
-      },
-      {
-        "minionName": "Mal'Ganis",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/Mal'Ganis.png"
-      },
-      {
-        "minionName": "Mal'Ganis",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/Mal'Ganis.png"
-      },
-      {
-        "minionName": "Mal'Ganis",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/Mal'Ganis.png"
-      },
-      {
-        "minionName": "Mal'Ganis",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/Mal'Ganis.png"
-      },
-      {
-        "minionName": "Mal'Ganis",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/Mal'Ganis.png"
-      },
-      {
-        "minionName": "Mal'Ganis",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/Mal'Ganis.png"
-      },
-      {
-        "minionName": "Mal'Ganis",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/Mal'Ganis.png"
-      },
-      {
-        "minionName": "Mal'Ganis",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/Mal'Ganis.png"
-      },
-      {
-        "minionName": "Voidlord",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/Voidlord.png"
-      },
-      {
-        "minionName": "Voidlord",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/Voidlord.png"
-      },
-      {
-        "minionName": "Voidlord",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/Voidlord.png"
-      },
-      {
-        "minionName": "Voidlord",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/Voidlord.png"
-      },
-      {
-        "minionName": "Voidlord",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/Voidlord.png"
-      },
-      {
-        "minionName": "Voidlord",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/Voidlord.png"
-      },
-      {
-        "minionName": "Voidlord",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/Voidlord.png"
-      },
-      {
-        "minionName": "Voidlord",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/Voidlord.png"
-      },
-      {
-        "minionName": "Voidlord",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/Voidlord.png"
-      },
-      {
-        "minionName": "Nomi, Kitchen Nightmare",
-        "tier": "5",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png"
-      },
-      {
-        "minionName": "Nomi, Kitchen Nightmare",
-        "tier": "5",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png"
-      },
-      {
-        "minionName": "Nomi, Kitchen Nightmare",
-        "tier": "5",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png"
-      },
-      {
-        "minionName": "Nomi, Kitchen Nightmare",
-        "tier": "5",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png"
-      },
-      {
-        "minionName": "Nomi, Kitchen Nightmare",
-        "tier": "5",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png"
-      },
-      {
-        "minionName": "Nomi, Kitchen Nightmare",
-        "tier": "5",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png"
-      },
-      {
-        "minionName": "Nomi, Kitchen Nightmare",
-        "tier": "5",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png"
-      },
-      {
-        "minionName": "Nomi, Kitchen Nightmare",
-        "tier": "5",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png"
-      },
-      {
-        "minionName": "Nomi, Kitchen Nightmare",
-        "tier": "5",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png"
-      },
-      {
-        "minionName": "Murozond",
-        "tier": "5",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFive/Dragon/Murozond.png"
-      },
-      {
-        "minionName": "Murozond",
-        "tier": "5",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFive/Dragon/Murozond.png"
-      },
-      {
-        "minionName": "Murozond",
-        "tier": "5",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFive/Dragon/Murozond.png"
-      },
-      {
-        "minionName": "Murozond",
-        "tier": "5",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFive/Dragon/Murozond.png"
-      },
-      {
-        "minionName": "Murozond",
-        "tier": "5",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFive/Dragon/Murozond.png"
-      },
-      {
-        "minionName": "Murozond",
-        "tier": "5",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFive/Dragon/Murozond.png"
-      },
-      {
-        "minionName": "Murozond",
-        "tier": "5",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFive/Dragon/Murozond.png"
-      },
-      {
-        "minionName": "Murozond",
-        "tier": "5",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFive/Dragon/Murozond.png"
-      },
-      {
-        "minionName": "Murozond",
-        "tier": "5",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFive/Dragon/Murozond.png"
-      },
-      {
-        "minionName": "Razorgore, the Untamed",
-        "tier": "5",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png"
-      },
-      {
-        "minionName": "Razorgore, the Untamed",
-        "tier": "5",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png"
-      },
-      {
-        "minionName": "Razorgore, the Untamed",
-        "tier": "5",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png"
-      },
-      {
-        "minionName": "Razorgore, the Untamed",
-        "tier": "5",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png"
-      },
-      {
-        "minionName": "Razorgore, the Untamed",
-        "tier": "5",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png"
-      },
-      {
-        "minionName": "Razorgore, the Untamed",
-        "tier": "5",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png"
-      },
-      {
-        "minionName": "Razorgore, the Untamed",
-        "tier": "5",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png"
-      },
-      {
-        "minionName": "Razorgore, the Untamed",
-        "tier": "5",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png"
-      },
-      {
-        "minionName": "Razorgore, the Untamed",
-        "tier": "5",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png"
-      },
-      {
-        "minionName": "Tavern Tempest",
-        "tier": "5",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierFive/Elemental/TavernTempest.png"
-      },
-      {
-        "minionName": "Tavern Tempest",
-        "tier": "5",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierFive/Elemental/TavernTempest.png"
-      },
-      {
-        "minionName": "Tavern Tempest",
-        "tier": "5",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierFive/Elemental/TavernTempest.png"
-      },
-      {
-        "minionName": "Tavern Tempest",
-        "tier": "5",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierFive/Elemental/TavernTempest.png"
-      },
-      {
-        "minionName": "Tavern Tempest",
-        "tier": "5",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierFive/Elemental/TavernTempest.png"
-      },
-      {
-        "minionName": "Tavern Tempest",
-        "tier": "5",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierFive/Elemental/TavernTempest.png"
-      },
-      {
-        "minionName": "Tavern Tempest",
-        "tier": "5",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierFive/Elemental/TavernTempest.png"
-      },
-      {
-        "minionName": "Tavern Tempest",
-        "tier": "5",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierFive/Elemental/TavernTempest.png"
-      },
-      {
-        "minionName": "Tavern Tempest",
-        "tier": "5",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierFive/Elemental/TavernTempest.png"
-      },
-      {
-        "minionName": "King Bagurgle",
-        "tier": "5",
-        "tribe": "Murloc",
-        "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png"
-      },
-      {
-        "minionName": "King Bagurgle",
-        "tier": "5",
-        "tribe": "Murloc",
-        "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png"
-      },
-      {
-        "minionName": "King Bagurgle",
-        "tier": "5",
-        "tribe": "Murloc",
-        "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png"
-      },
-      {
-        "minionName": "King Bagurgle",
-        "tier": "5",
-        "tribe": "Murloc",
-        "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png"
-      },
-      {
-        "minionName": "King Bagurgle",
-        "tier": "5",
-        "tribe": "Murloc",
-        "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png"
-      },
-      {
-        "minionName": "King Bagurgle",
-        "tier": "5",
-        "tribe": "Murloc",
-        "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png"
-      },
-      {
-        "minionName": "King Bagurgle",
-        "tier": "5",
-        "tribe": "Murloc",
-        "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png"
-      },
-      {
-        "minionName": "King Bagurgle",
-        "tier": "5",
-        "tribe": "Murloc",
-        "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png"
-      },
-      {
-        "minionName": "King Bagurgle",
-        "tier": "5",
-        "tribe": "Murloc",
-        "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png"
-      },
-      {
-        "minionName": "Baron Rivendare",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png"
-      },
-      {
-        "minionName": "Baron Rivendare",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png"
-      },
-      {
-        "minionName": "Baron Rivendare",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png"
-      },
-      {
-        "minionName": "Baron Rivendare",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png"
-      },
-      {
-        "minionName": "Baron Rivendare",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png"
-      },
-      {
-        "minionName": "Baron Rivendare",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png"
-      },
-      {
-        "minionName": "Baron Rivendare",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png"
-      },
-      {
-        "minionName": "Baron Rivendare",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png"
-      },
-      {
-        "minionName": "Baron Rivendare",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png"
-      },
-      {
-        "minionName": "Sneed's Old Shredder",
-        "tier": "5",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierFive/Mech/Sneed'sOldShredder.png"
-      },
-      {
-        "minionName": "Sneed's Old Shredder",
-        "tier": "5",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierFive/Mech/Sneed'sOldShredder.png"
-      },
-      {
-        "minionName": "Sneed's Old Shredder",
-        "tier": "5",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierFive/Mech/Sneed'sOldShredder.png"
-      },
-      {
-        "minionName": "Sneed's Old Shredder",
-        "tier": "5",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierFive/Mech/Sneed'sOldShredder.png"
-      },
-      {
-        "minionName": "Sneed's Old Shredder",
-        "tier": "5",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierFive/Mech/Sneed'sOldShredder.png"
-      },
-      {
-        "minionName": "Sneed's Old Shredder",
-        "tier": "5",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierFive/Mech/Sneed'sOldShredder.png"
-      },
-      {
-        "minionName": "Sneed's Old Shredder",
-        "tier": "5",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierFive/Mech/Sneed'sOldShredder.png"
-      },
-      {
-        "minionName": "Sneed's Old Shredder",
-        "tier": "5",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierFive/Mech/Sneed'sOldShredder.png"
-      },
-      {
-        "minionName": "Sneed's Old Shredder",
-        "tier": "5",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierFive/Mech/Sneed'sOldShredder.png"
-      },
-      {
-        "minionName": "Junkbot",
-        "tier": "5",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierFive/Mech/Junkbot.png"
-      },
-      {
-        "minionName": "Junkbot",
-        "tier": "5",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierFive/Mech/Junkbot.png"
-      },
-      {
-        "minionName": "Junkbot",
-        "tier": "5",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierFive/Mech/Junkbot.png"
-      },
-      {
-        "minionName": "Junkbot",
-        "tier": "5",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierFive/Mech/Junkbot.png"
-      },
-      {
-        "minionName": "Junkbot",
-        "tier": "5",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierFive/Mech/Junkbot.png"
-      },
-      {
-        "minionName": "Junkbot",
-        "tier": "5",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierFive/Mech/Junkbot.png"
-      },
-      {
-        "minionName": "Junkbot",
-        "tier": "5",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierFive/Mech/Junkbot.png"
-      },
-      {
-        "minionName": "Junkbot",
-        "tier": "5",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierFive/Mech/Junkbot.png"
-      },
-      {
-        "minionName": "Junkbot",
-        "tier": "5",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierFive/Mech/Junkbot.png"
-      },
-      {
-        "minionName": "Lightfang Enforcer",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/LightfangEnforcer.png"
-      },
-      {
-        "minionName": "Lightfang Enforcer",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/LightfangEnforcer.png"
-      },
-      {
-        "minionName": "Lightfang Enforcer",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/LightfangEnforcer.png"
-      },
-      {
-        "minionName": "Lightfang Enforcer",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/LightfangEnforcer.png"
-      },
-      {
-        "minionName": "Lightfang Enforcer",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/LightfangEnforcer.png"
-      },
-      {
-        "minionName": "Lightfang Enforcer",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/LightfangEnforcer.png"
-      },
-      {
-        "minionName": "Lightfang Enforcer",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/LightfangEnforcer.png"
-      },
-      {
-        "minionName": "Lightfang Enforcer",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/LightfangEnforcer.png"
-      },
-      {
-        "minionName": "Lightfang Enforcer",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/LightfangEnforcer.png"
-      },
-      {
-        "minionName": "Deadly Spore",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png"
-      },
-      {
-        "minionName": "Deadly Spore",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png"
-      },
-      {
-        "minionName": "Deadly Spore",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png"
-      },
-      {
-        "minionName": "Deadly Spore",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png"
-      },
-      {
-        "minionName": "Deadly Spore",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png"
-      },
-      {
-        "minionName": "Deadly Spore",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png"
-      },
-      {
-        "minionName": "Deadly Spore",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png"
-      },
-      {
-        "minionName": "Deadly Spore",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png"
-      },
-      {
-        "minionName": "Deadly Spore",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png"
-      },
-      {
-        "minionName": "Brann Bronzebeard",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png"
-      },
-      {
-        "minionName": "Brann Bronzebeard",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png"
-      },
-      {
-        "minionName": "Brann Bronzebeard",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png"
-      },
-      {
-        "minionName": "Brann Bronzebeard",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png"
-      },
-      {
-        "minionName": "Brann Bronzebeard",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png"
-      },
-      {
-        "minionName": "Brann Bronzebeard",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png"
-      },
-      {
-        "minionName": "Brann Bronzebeard",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png"
-      },
-      {
-        "minionName": "Brann Bronzebeard",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png"
-      },
-      {
-        "minionName": "Brann Bronzebeard",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png"
-      },
-      {
-        "minionName": "Strongshell Scavenger",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/StrongshellScavenger.png"
-      },
-      {
-        "minionName": "Strongshell Scavenger",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/StrongshellScavenger.png"
-      },
-      {
-        "minionName": "Strongshell Scavenger",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/StrongshellScavenger.png"
-      },
-      {
-        "minionName": "Strongshell Scavenger",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/StrongshellScavenger.png"
-      },
-      {
-        "minionName": "Strongshell Scavenger",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/StrongshellScavenger.png"
-      },
-      {
-        "minionName": "Strongshell Scavenger",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/StrongshellScavenger.png"
-      },
-      {
-        "minionName": "Strongshell Scavenger",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/StrongshellScavenger.png"
-      },
-      {
-        "minionName": "Strongshell Scavenger",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/StrongshellScavenger.png"
-      },
-      {
-        "minionName": "Strongshell Scavenger",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/StrongshellScavenger.png"
-      },
-      {
-        "minionName": "Cap'n Hoggarr",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/Cap'nHoggarr.png"
-      },
-      {
-        "minionName": "Cap'n Hoggarr",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/Cap'nHoggarr.png"
-      },
-      {
-        "minionName": "Cap'n Hoggarr",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/Cap'nHoggarr.png"
-      },
-      {
-        "minionName": "Cap'n Hoggarr",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/Cap'nHoggarr.png"
-      },
-      {
-        "minionName": "Cap'n Hoggarr",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/Cap'nHoggarr.png"
-      },
-      {
-        "minionName": "Cap'n Hoggarr",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/Cap'nHoggarr.png"
-      },
-      {
-        "minionName": "Cap'n Hoggarr",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/Cap'nHoggarr.png"
-      },
-      {
-        "minionName": "Cap'n Hoggarr",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/Cap'nHoggarr.png"
-      },
-      {
-        "minionName": "Cap'n Hoggarr",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/Cap'nHoggarr.png"
-      },
-      {
-        "minionName": "Nat Pagle, Extreme Angler",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/NatPagleExtremeAngler.png"
-      },
-      {
-        "minionName": "Nat Pagle, Extreme Angler",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/NatPagleExtremeAngler.png"
-      },
-      {
-        "minionName": "Nat Pagle, Extreme Angler",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/NatPagleExtremeAngler.png"
-      },
-      {
-        "minionName": "Nat Pagle, Extreme Angler",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/NatPagleExtremeAngler.png"
-      },
-      {
-        "minionName": "Nat Pagle, Extreme Angler",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/NatPagleExtremeAngler.png"
-      },
-      {
-        "minionName": "Nat Pagle, Extreme Angler",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/NatPagleExtremeAngler.png"
-      },
-      {
-        "minionName": "Nat Pagle, Extreme Angler",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/NatPagleExtremeAngler.png"
-      },
-      {
-        "minionName": "Nat Pagle, Extreme Angler",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/NatPagleExtremeAngler.png"
-      },
-      {
-        "minionName": "Nat Pagle, Extreme Angler",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/NatPagleExtremeAngler.png"
-      },
-      {
-        "minionName": "Seabreaker Goliath",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png"
-      },
-      {
-        "minionName": "Seabreaker Goliath",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png"
-      },
-      {
-        "minionName": "Seabreaker Goliath",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png"
-      },
-      {
-        "minionName": "Seabreaker Goliath",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png"
-      },
-      {
-        "minionName": "Seabreaker Goliath",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png"
-      },
-      {
-        "minionName": "Seabreaker Goliath",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png"
-      },
-      {
-        "minionName": "Seabreaker Goliath",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png"
-      },
-      {
-        "minionName": "Seabreaker Goliath",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png"
-      },
-      {
-        "minionName": "Seabreaker Goliath",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png"
-      }
+        {
+            "minionName": "Ironhide Direhorn",
+            "tier": "5",
+            "tribe": "Beast",
+            "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png"
+        },
+        {
+            "minionName": "Ironhide Direhorn",
+            "tier": "5",
+            "tribe": "Beast",
+            "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png"
+        },
+        {
+            "minionName": "Ironhide Direhorn",
+            "tier": "5",
+            "tribe": "Beast",
+            "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png"
+        },
+        {
+            "minionName": "Ironhide Direhorn",
+            "tier": "5",
+            "tribe": "Beast",
+            "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png"
+        },
+        {
+            "minionName": "Ironhide Direhorn",
+            "tier": "5",
+            "tribe": "Beast",
+            "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png"
+        },
+        {
+            "minionName": "Ironhide Direhorn",
+            "tier": "5",
+            "tribe": "Beast",
+            "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png"
+        },
+        {
+            "minionName": "Ironhide Direhorn",
+            "tier": "5",
+            "tribe": "Beast",
+            "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png"
+        },
+        {
+            "minionName": "Ironhide Direhorn",
+            "tier": "5",
+            "tribe": "Beast",
+            "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png"
+        },
+        {
+            "minionName": "Ironhide Direhorn",
+            "tier": "5",
+            "tribe": "Beast",
+            "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png"
+        },
+        {
+            "minionName": "Mama Bear",
+            "tier": "5",
+            "tribe": "Beast",
+            "imageLocation": "/img/TierFive/Beast/MamaBear.png"
+        },
+        {
+            "minionName": "Mama Bear",
+            "tier": "5",
+            "tribe": "Beast",
+            "imageLocation": "/img/TierFive/Beast/MamaBear.png"
+        },
+        {
+            "minionName": "Mama Bear",
+            "tier": "5",
+            "tribe": "Beast",
+            "imageLocation": "/img/TierFive/Beast/MamaBear.png"
+        },
+        {
+            "minionName": "Mama Bear",
+            "tier": "5",
+            "tribe": "Beast",
+            "imageLocation": "/img/TierFive/Beast/MamaBear.png"
+        },
+        {
+            "minionName": "Mama Bear",
+            "tier": "5",
+            "tribe": "Beast",
+            "imageLocation": "/img/TierFive/Beast/MamaBear.png"
+        },
+        {
+            "minionName": "Mama Bear",
+            "tier": "5",
+            "tribe": "Beast",
+            "imageLocation": "/img/TierFive/Beast/MamaBear.png"
+        },
+        {
+            "minionName": "Mama Bear",
+            "tier": "5",
+            "tribe": "Beast",
+            "imageLocation": "/img/TierFive/Beast/MamaBear.png"
+        },
+        {
+            "minionName": "Mama Bear",
+            "tier": "5",
+            "tribe": "Beast",
+            "imageLocation": "/img/TierFive/Beast/MamaBear.png"
+        },
+        {
+            "minionName": "Mama Bear",
+            "tier": "5",
+            "tribe": "Beast",
+            "imageLocation": "/img/TierFive/Beast/MamaBear.png"
+        },
+        {
+            "minionName": "Annihilan Battlemaster",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png"
+        },
+        {
+            "minionName": "Annihilan Battlemaster",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png"
+        },
+        {
+            "minionName": "Annihilan Battlemaster",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png"
+        },
+        {
+            "minionName": "Annihilan Battlemaster",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png"
+        },
+        {
+            "minionName": "Annihilan Battlemaster",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png"
+        },
+        {
+            "minionName": "Annihilan Battlemaster",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png"
+        },
+        {
+            "minionName": "Annihilan Battlemaster",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png"
+        },
+        {
+            "minionName": "Annihilan Battlemaster",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png"
+        },
+        {
+            "minionName": "Annihilan Battlemaster",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png"
+        },
+        {
+            "minionName": "Mal'Ganis",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/Mal'Ganis.png"
+        },
+        {
+            "minionName": "Mal'Ganis",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/Mal'Ganis.png"
+        },
+        {
+            "minionName": "Mal'Ganis",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/Mal'Ganis.png"
+        },
+        {
+            "minionName": "Mal'Ganis",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/Mal'Ganis.png"
+        },
+        {
+            "minionName": "Mal'Ganis",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/Mal'Ganis.png"
+        },
+        {
+            "minionName": "Mal'Ganis",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/Mal'Ganis.png"
+        },
+        {
+            "minionName": "Mal'Ganis",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/Mal'Ganis.png"
+        },
+        {
+            "minionName": "Mal'Ganis",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/Mal'Ganis.png"
+        },
+        {
+            "minionName": "Mal'Ganis",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/Mal'Ganis.png"
+        },
+        {
+            "minionName": "Voidlord",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/Voidlord.png"
+        },
+        {
+            "minionName": "Voidlord",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/Voidlord.png"
+        },
+        {
+            "minionName": "Voidlord",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/Voidlord.png"
+        },
+        {
+            "minionName": "Voidlord",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/Voidlord.png"
+        },
+        {
+            "minionName": "Voidlord",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/Voidlord.png"
+        },
+        {
+            "minionName": "Voidlord",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/Voidlord.png"
+        },
+        {
+            "minionName": "Voidlord",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/Voidlord.png"
+        },
+        {
+            "minionName": "Voidlord",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/Voidlord.png"
+        },
+        {
+            "minionName": "Voidlord",
+            "tier": "5",
+            "tribe": "Demon",
+            "imageLocation": "/img/TierFive/Demon/Voidlord.png"
+        },
+        {
+            "minionName": "Tavern Tempest",
+            "tier": "5",
+            "tribe": "Elemental",
+            "imageLocation": "/img/TierFive/Elemental/TavernTempest.png"
+        },
+        {
+            "minionName": "Tavern Tempest",
+            "tier": "5",
+            "tribe": "Elemental",
+            "imageLocation": "/img/TierFive/Elemental/TavernTempest.png"
+        },
+        {
+            "minionName": "Tavern Tempest",
+            "tier": "5",
+            "tribe": "Elemental",
+            "imageLocation": "/img/TierFive/Elemental/TavernTempest.png"
+        },
+        {
+            "minionName": "Tavern Tempest",
+            "tier": "5",
+            "tribe": "Elemental",
+            "imageLocation": "/img/TierFive/Elemental/TavernTempest.png"
+        },
+        {
+            "minionName": "Tavern Tempest",
+            "tier": "5",
+            "tribe": "Elemental",
+            "imageLocation": "/img/TierFive/Elemental/TavernTempest.png"
+        },
+        {
+            "minionName": "Tavern Tempest",
+            "tier": "5",
+            "tribe": "Elemental",
+            "imageLocation": "/img/TierFive/Elemental/TavernTempest.png"
+        },
+        {
+            "minionName": "Tavern Tempest",
+            "tier": "5",
+            "tribe": "Elemental",
+            "imageLocation": "/img/TierFive/Elemental/TavernTempest.png"
+        },
+        {
+            "minionName": "Tavern Tempest",
+            "tier": "5",
+            "tribe": "Elemental",
+            "imageLocation": "/img/TierFive/Elemental/TavernTempest.png"
+        },
+        {
+            "minionName": "Tavern Tempest",
+            "tier": "5",
+            "tribe": "Elemental",
+            "imageLocation": "/img/TierFive/Elemental/TavernTempest.png"
+        },
+        {
+            "minionName": "Razorgore, the Untamed",
+            "tier": "5",
+            "tribe": "Dragon",
+            "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png"
+        },
+        {
+            "minionName": "Razorgore, the Untamed",
+            "tier": "5",
+            "tribe": "Dragon",
+            "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png"
+        },
+        {
+            "minionName": "Razorgore, the Untamed",
+            "tier": "5",
+            "tribe": "Dragon",
+            "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png"
+        },
+        {
+            "minionName": "Razorgore, the Untamed",
+            "tier": "5",
+            "tribe": "Dragon",
+            "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png"
+        },
+        {
+            "minionName": "Razorgore, the Untamed",
+            "tier": "5",
+            "tribe": "Dragon",
+            "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png"
+        },
+        {
+            "minionName": "Razorgore, the Untamed",
+            "tier": "5",
+            "tribe": "Dragon",
+            "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png"
+        },
+        {
+            "minionName": "Razorgore, the Untamed",
+            "tier": "5",
+            "tribe": "Dragon",
+            "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png"
+        },
+        {
+            "minionName": "Razorgore, the Untamed",
+            "tier": "5",
+            "tribe": "Dragon",
+            "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png"
+        },
+        {
+            "minionName": "Razorgore, the Untamed",
+            "tier": "5",
+            "tribe": "Dragon",
+            "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png"
+        },
+        {
+            "minionName": "Murozond",
+            "tier": "5",
+            "tribe": "Dragon",
+            "imageLocation": "/img/TierFive/Dragon/Murozond.png"
+        },
+        {
+            "minionName": "Murozond",
+            "tier": "5",
+            "tribe": "Dragon",
+            "imageLocation": "/img/TierFive/Dragon/Murozond.png"
+        },
+        {
+            "minionName": "Murozond",
+            "tier": "5",
+            "tribe": "Dragon",
+            "imageLocation": "/img/TierFive/Dragon/Murozond.png"
+        },
+        {
+            "minionName": "Murozond",
+            "tier": "5",
+            "tribe": "Dragon",
+            "imageLocation": "/img/TierFive/Dragon/Murozond.png"
+        },
+        {
+            "minionName": "Murozond",
+            "tier": "5",
+            "tribe": "Dragon",
+            "imageLocation": "/img/TierFive/Dragon/Murozond.png"
+        },
+        {
+            "minionName": "Murozond",
+            "tier": "5",
+            "tribe": "Dragon",
+            "imageLocation": "/img/TierFive/Dragon/Murozond.png"
+        },
+        {
+            "minionName": "Murozond",
+            "tier": "5",
+            "tribe": "Dragon",
+            "imageLocation": "/img/TierFive/Dragon/Murozond.png"
+        },
+        {
+            "minionName": "Murozond",
+            "tier": "5",
+            "tribe": "Dragon",
+            "imageLocation": "/img/TierFive/Dragon/Murozond.png"
+        },
+        {
+            "minionName": "Murozond",
+            "tier": "5",
+            "tribe": "Dragon",
+            "imageLocation": "/img/TierFive/Dragon/Murozond.png"
+        },
+        {
+            "minionName": "Nomi, Kitchen Nightmare",
+            "tier": "5",
+            "tribe": "Elemental",
+            "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png"
+        },
+        {
+            "minionName": "Nomi, Kitchen Nightmare",
+            "tier": "5",
+            "tribe": "Elemental",
+            "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png"
+        },
+        {
+            "minionName": "Nomi, Kitchen Nightmare",
+            "tier": "5",
+            "tribe": "Elemental",
+            "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png"
+        },
+        {
+            "minionName": "Nomi, Kitchen Nightmare",
+            "tier": "5",
+            "tribe": "Elemental",
+            "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png"
+        },
+        {
+            "minionName": "Nomi, Kitchen Nightmare",
+            "tier": "5",
+            "tribe": "Elemental",
+            "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png"
+        },
+        {
+            "minionName": "Nomi, Kitchen Nightmare",
+            "tier": "5",
+            "tribe": "Elemental",
+            "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png"
+        },
+        {
+            "minionName": "Nomi, Kitchen Nightmare",
+            "tier": "5",
+            "tribe": "Elemental",
+            "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png"
+        },
+        {
+            "minionName": "Nomi, Kitchen Nightmare",
+            "tier": "5",
+            "tribe": "Elemental",
+            "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png"
+        },
+        {
+            "minionName": "Nomi, Kitchen Nightmare",
+            "tier": "5",
+            "tribe": "Elemental",
+            "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png"
+        },
+        {
+            "minionName": "Sneed's Old Shredder",
+            "tier": "5",
+            "tribe": "Mech",
+            "imageLocation": "/img/TierFive/Mech/Sneed'sOldShredder.png"
+        },
+        {
+            "minionName": "Sneed's Old Shredder",
+            "tier": "5",
+            "tribe": "Mech",
+            "imageLocation": "/img/TierFive/Mech/Sneed'sOldShredder.png"
+        },
+        {
+            "minionName": "Sneed's Old Shredder",
+            "tier": "5",
+            "tribe": "Mech",
+            "imageLocation": "/img/TierFive/Mech/Sneed'sOldShredder.png"
+        },
+        {
+            "minionName": "Sneed's Old Shredder",
+            "tier": "5",
+            "tribe": "Mech",
+            "imageLocation": "/img/TierFive/Mech/Sneed'sOldShredder.png"
+        },
+        {
+            "minionName": "Sneed's Old Shredder",
+            "tier": "5",
+            "tribe": "Mech",
+            "imageLocation": "/img/TierFive/Mech/Sneed'sOldShredder.png"
+        },
+        {
+            "minionName": "Sneed's Old Shredder",
+            "tier": "5",
+            "tribe": "Mech",
+            "imageLocation": "/img/TierFive/Mech/Sneed'sOldShredder.png"
+        },
+        {
+            "minionName": "Sneed's Old Shredder",
+            "tier": "5",
+            "tribe": "Mech",
+            "imageLocation": "/img/TierFive/Mech/Sneed'sOldShredder.png"
+        },
+        {
+            "minionName": "Sneed's Old Shredder",
+            "tier": "5",
+            "tribe": "Mech",
+            "imageLocation": "/img/TierFive/Mech/Sneed'sOldShredder.png"
+        },
+        {
+            "minionName": "Sneed's Old Shredder",
+            "tier": "5",
+            "tribe": "Mech",
+            "imageLocation": "/img/TierFive/Mech/Sneed'sOldShredder.png"
+        },
+        {
+            "minionName": "King Bagurgle",
+            "tier": "5",
+            "tribe": "Murloc",
+            "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png"
+        },
+        {
+            "minionName": "King Bagurgle",
+            "tier": "5",
+            "tribe": "Murloc",
+            "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png"
+        },
+        {
+            "minionName": "King Bagurgle",
+            "tier": "5",
+            "tribe": "Murloc",
+            "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png"
+        },
+        {
+            "minionName": "King Bagurgle",
+            "tier": "5",
+            "tribe": "Murloc",
+            "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png"
+        },
+        {
+            "minionName": "King Bagurgle",
+            "tier": "5",
+            "tribe": "Murloc",
+            "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png"
+        },
+        {
+            "minionName": "King Bagurgle",
+            "tier": "5",
+            "tribe": "Murloc",
+            "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png"
+        },
+        {
+            "minionName": "King Bagurgle",
+            "tier": "5",
+            "tribe": "Murloc",
+            "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png"
+        },
+        {
+            "minionName": "King Bagurgle",
+            "tier": "5",
+            "tribe": "Murloc",
+            "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png"
+        },
+        {
+            "minionName": "King Bagurgle",
+            "tier": "5",
+            "tribe": "Murloc",
+            "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png"
+        },
+        {
+            "minionName": "Junkbot",
+            "tier": "5",
+            "tribe": "Mech",
+            "imageLocation": "/img/TierFive/Mech/Junkbot.png"
+        },
+        {
+            "minionName": "Junkbot",
+            "tier": "5",
+            "tribe": "Mech",
+            "imageLocation": "/img/TierFive/Mech/Junkbot.png"
+        },
+        {
+            "minionName": "Junkbot",
+            "tier": "5",
+            "tribe": "Mech",
+            "imageLocation": "/img/TierFive/Mech/Junkbot.png"
+        },
+        {
+            "minionName": "Junkbot",
+            "tier": "5",
+            "tribe": "Mech",
+            "imageLocation": "/img/TierFive/Mech/Junkbot.png"
+        },
+        {
+            "minionName": "Junkbot",
+            "tier": "5",
+            "tribe": "Mech",
+            "imageLocation": "/img/TierFive/Mech/Junkbot.png"
+        },
+        {
+            "minionName": "Junkbot",
+            "tier": "5",
+            "tribe": "Mech",
+            "imageLocation": "/img/TierFive/Mech/Junkbot.png"
+        },
+        {
+            "minionName": "Junkbot",
+            "tier": "5",
+            "tribe": "Mech",
+            "imageLocation": "/img/TierFive/Mech/Junkbot.png"
+        },
+        {
+            "minionName": "Junkbot",
+            "tier": "5",
+            "tribe": "Mech",
+            "imageLocation": "/img/TierFive/Mech/Junkbot.png"
+        },
+        {
+            "minionName": "Junkbot",
+            "tier": "5",
+            "tribe": "Mech",
+            "imageLocation": "/img/TierFive/Mech/Junkbot.png"
+        },
+        {
+            "minionName": "Lightfang Enforcer",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/LightfangEnforcer.png"
+        },
+        {
+            "minionName": "Lightfang Enforcer",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/LightfangEnforcer.png"
+        },
+        {
+            "minionName": "Lightfang Enforcer",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/LightfangEnforcer.png"
+        },
+        {
+            "minionName": "Lightfang Enforcer",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/LightfangEnforcer.png"
+        },
+        {
+            "minionName": "Lightfang Enforcer",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/LightfangEnforcer.png"
+        },
+        {
+            "minionName": "Lightfang Enforcer",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/LightfangEnforcer.png"
+        },
+        {
+            "minionName": "Lightfang Enforcer",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/LightfangEnforcer.png"
+        },
+        {
+            "minionName": "Lightfang Enforcer",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/LightfangEnforcer.png"
+        },
+        {
+            "minionName": "Lightfang Enforcer",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/LightfangEnforcer.png"
+        },
+        {
+            "minionName": "Baron Rivendare",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png"
+        },
+        {
+            "minionName": "Baron Rivendare",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png"
+        },
+        {
+            "minionName": "Baron Rivendare",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png"
+        },
+        {
+            "minionName": "Baron Rivendare",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png"
+        },
+        {
+            "minionName": "Baron Rivendare",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png"
+        },
+        {
+            "minionName": "Baron Rivendare",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png"
+        },
+        {
+            "minionName": "Baron Rivendare",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png"
+        },
+        {
+            "minionName": "Baron Rivendare",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png"
+        },
+        {
+            "minionName": "Baron Rivendare",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png"
+        },
+        {
+            "minionName": "Deadly Spore",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png"
+        },
+        {
+            "minionName": "Deadly Spore",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png"
+        },
+        {
+            "minionName": "Deadly Spore",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png"
+        },
+        {
+            "minionName": "Deadly Spore",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png"
+        },
+        {
+            "minionName": "Deadly Spore",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png"
+        },
+        {
+            "minionName": "Deadly Spore",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png"
+        },
+        {
+            "minionName": "Deadly Spore",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png"
+        },
+        {
+            "minionName": "Deadly Spore",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png"
+        },
+        {
+            "minionName": "Deadly Spore",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png"
+        },
+        {
+            "minionName": "Strongshell Scavenger",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/StrongshellScavenger.png"
+        },
+        {
+            "minionName": "Strongshell Scavenger",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/StrongshellScavenger.png"
+        },
+        {
+            "minionName": "Strongshell Scavenger",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/StrongshellScavenger.png"
+        },
+        {
+            "minionName": "Strongshell Scavenger",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/StrongshellScavenger.png"
+        },
+        {
+            "minionName": "Strongshell Scavenger",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/StrongshellScavenger.png"
+        },
+        {
+            "minionName": "Strongshell Scavenger",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/StrongshellScavenger.png"
+        },
+        {
+            "minionName": "Strongshell Scavenger",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/StrongshellScavenger.png"
+        },
+        {
+            "minionName": "Strongshell Scavenger",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/StrongshellScavenger.png"
+        },
+        {
+            "minionName": "Strongshell Scavenger",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/StrongshellScavenger.png"
+        },
+        {
+            "minionName": "Brann Bronzebeard",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png"
+        },
+        {
+            "minionName": "Brann Bronzebeard",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png"
+        },
+        {
+            "minionName": "Brann Bronzebeard",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png"
+        },
+        {
+            "minionName": "Brann Bronzebeard",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png"
+        },
+        {
+            "minionName": "Brann Bronzebeard",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png"
+        },
+        {
+            "minionName": "Brann Bronzebeard",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png"
+        },
+        {
+            "minionName": "Brann Bronzebeard",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png"
+        },
+        {
+            "minionName": "Brann Bronzebeard",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png"
+        },
+        {
+            "minionName": "Brann Bronzebeard",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png"
+        },
+        {
+            "minionName": "Cap'n Hoggarr",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/Cap'nHoggarr.png"
+        },
+        {
+            "minionName": "Cap'n Hoggarr",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/Cap'nHoggarr.png"
+        },
+        {
+            "minionName": "Cap'n Hoggarr",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/Cap'nHoggarr.png"
+        },
+        {
+            "minionName": "Cap'n Hoggarr",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/Cap'nHoggarr.png"
+        },
+        {
+            "minionName": "Cap'n Hoggarr",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/Cap'nHoggarr.png"
+        },
+        {
+            "minionName": "Cap'n Hoggarr",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/Cap'nHoggarr.png"
+        },
+        {
+            "minionName": "Cap'n Hoggarr",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/Cap'nHoggarr.png"
+        },
+        {
+            "minionName": "Cap'n Hoggarr",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/Cap'nHoggarr.png"
+        },
+        {
+            "minionName": "Cap'n Hoggarr",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/Cap'nHoggarr.png"
+        },
+        {
+            "minionName": "Nat Pagle, Extreme Angler",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/NatPagleExtremeAngler.png"
+        },
+        {
+            "minionName": "Nat Pagle, Extreme Angler",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/NatPagleExtremeAngler.png"
+        },
+        {
+            "minionName": "Nat Pagle, Extreme Angler",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/NatPagleExtremeAngler.png"
+        },
+        {
+            "minionName": "Nat Pagle, Extreme Angler",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/NatPagleExtremeAngler.png"
+        },
+        {
+            "minionName": "Nat Pagle, Extreme Angler",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/NatPagleExtremeAngler.png"
+        },
+        {
+            "minionName": "Nat Pagle, Extreme Angler",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/NatPagleExtremeAngler.png"
+        },
+        {
+            "minionName": "Nat Pagle, Extreme Angler",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/NatPagleExtremeAngler.png"
+        },
+        {
+            "minionName": "Nat Pagle, Extreme Angler",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/NatPagleExtremeAngler.png"
+        },
+        {
+            "minionName": "Nat Pagle, Extreme Angler",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/NatPagleExtremeAngler.png"
+        },
+        {
+            "minionName": "Seabreaker Goliath",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png"
+        },
+        {
+            "minionName": "Seabreaker Goliath",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png"
+        },
+        {
+            "minionName": "Seabreaker Goliath",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png"
+        },
+        {
+            "minionName": "Seabreaker Goliath",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png"
+        },
+        {
+            "minionName": "Seabreaker Goliath",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png"
+        },
+        {
+            "minionName": "Seabreaker Goliath",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png"
+        },
+        {
+            "minionName": "Seabreaker Goliath",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png"
+        },
+        {
+            "minionName": "Seabreaker Goliath",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png"
+        },
+        {
+            "minionName": "Seabreaker Goliath",
+            "tier": "5",
+            "tribe": "Pirate",
+            "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png"
+        },
+        {
+            "minionName": "Faceless Taverngoer",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/FacelessTaverngoer.png"
+        },
+        {
+            "minionName": "Faceless Taverngoer",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/FacelessTaverngoer.png"
+        },
+        {
+            "minionName": "Faceless Taverngoer",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/FacelessTaverngoer.png"
+        },
+        {
+            "minionName": "Faceless Taverngoer",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/FacelessTaverngoer.png"
+        },
+        {
+            "minionName": "Faceless Taverngoer",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/FacelessTaverngoer.png"
+        },
+        {
+            "minionName": "Faceless Taverngoer",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/FacelessTaverngoer.png"
+        },
+        {
+            "minionName": "Faceless Taverngoer",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/FacelessTaverngoer.png"
+        },
+        {
+            "minionName": "Faceless Taverngoer",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/FacelessTaverngoer.png"
+        },
+        {
+            "minionName": "Faceless Taverngoer",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/FacelessTaverngoer.png"
+        },
+        {
+            "minionName": "Mythrax the Unraveler",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/MythraxTheUnraveler.png"
+        },
+        {
+            "minionName": "Mythrax the Unraveler",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/MythraxTheUnraveler.png"
+        },
+        {
+            "minionName": "Mythrax the Unraveler",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/MythraxTheUnraveler.png"
+        },
+        {
+            "minionName": "Mythrax the Unraveler",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/MythraxTheUnraveler.png"
+        },
+        {
+            "minionName": "Mythrax the Unraveler",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/MythraxTheUnraveler.png"
+        },
+        {
+            "minionName": "Mythrax the Unraveler",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/MythraxTheUnraveler.png"
+        },
+        {
+            "minionName": "Mythrax the Unraveler",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/MythraxTheUnraveler.png"
+        },
+        {
+            "minionName": "Mythrax the Unraveler",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/MythraxTheUnraveler.png"
+        },
+        {
+            "minionName": "Mythrax the Unraveler",
+            "tier": "5",
+            "tribe": "Neutral",
+            "imageLocation": "/img/TierFive/Neutral/MythraxTheUnraveler.png"
+        }
     ]
-  }
+}

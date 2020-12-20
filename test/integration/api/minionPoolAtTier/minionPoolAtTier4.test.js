@@ -7,6 +7,7 @@ const path = require('path');
 
 const tierFourMinions = [
     'Annoy-o-Module',
+    'Bigfernal',
     'Bolvar, Fireblood',
     'Cave Hydra',
     'Cobalt Scalebane',

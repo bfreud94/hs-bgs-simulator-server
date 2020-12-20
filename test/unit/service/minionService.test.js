@@ -37,8 +37,8 @@ describe('Minion Service', () => {
         const minionPoolAtTierOneReturnValue = await minionPoolAtTier('1');
         const tierOneMinions = [
             'Alleycat',
+            'Acolyte of C\'Thun',
             'Deck Swabbie',
-            'Scallywag',
             'Dragonspawn Lieutenant',
             'Fiendish Servant',
             'Micro Machine',
@@ -47,8 +47,8 @@ describe('Minion Service', () => {
             'Murloc Tidehunter',
             'Red Whelp',
             'Refreshing Anomaly',
-            'Righteous Protector',
             'Rockpool Hunter',
+            'Scallywag',
             'Scavenging Hyena',
             'Sellemental',
             'Vulgar Homunculus',
@@ -84,6 +84,7 @@ describe('Minion Service', () => {
             'Southsea Captain',
             'Spawn of N\'Zoth',
             'Steward of Time',
+            'Tormented Ritualist',
             'Unstable Ghoul',
             'Menagerie Mug',
             'Waxrider Togwaggle',
@@ -102,10 +103,10 @@ describe('Minion Service', () => {
         const minionPoolAtTierThreeReturnValue = await minionPoolAtTier('3');
         const tierThreeMinions = [
             'Arcane Assistant',
+            'Arm of the Empire',
             'Bloodsail Cannoneer',
             'Bronze Warden',
             'Coldlight Seer',
-            'Crowd Favorite',
             'Crystalweaver',
             'Deflect-o-Bot',
             'Felfin Navigator',
@@ -121,13 +122,12 @@ describe('Minion Service', () => {
             'Replicating Menace',
             'Salty Looter',
             'Screwjank Clunker',
-            'Shifter Zerus',
             'Soul Juggler',
             'Southsea Strongarm',
             'Stasis Elemental',
-            'The Beast',
             'Crackling Cyclone',
-            'Twilight Emissary'
+            'Twilight Emissary',
+            'Warden of Old'
         ];
         const tierThreeCopies = 13;
         tierThreeMinions.forEach((tierThreeMinion) => {
@@ -142,6 +142,7 @@ describe('Minion Service', () => {
         const minionPoolAtTierFourReturnValue = await minionPoolAtTier('4');
         const tierFourMinions = [
             'Annoy-o-Module',
+            'Bigfernal',
             'Bolvar, Fireblood',
             'Cave Hydra',
             'Cobalt Scalebane',
@@ -179,6 +180,7 @@ describe('Minion Service', () => {
             'Brann Bronzebeard',
             'Cap\'n Hoggarr',
             'Deadly Spore',
+            'Faceless Taverngoer',
             'Ironhide Direhorn',
             'Junkbot',
             'King Bagurgle',
@@ -186,6 +188,7 @@ describe('Minion Service', () => {
             'Mal\'Ganis',
             'Mama Bear',
             'Murozond',
+            'Mythrax the Unraveler',
             'Nat Pagle, Extreme Angler',
             'Nomi, Kitchen Nightmare',
             'Razorgore, the Untamed',
@@ -209,19 +212,20 @@ describe('Minion Service', () => {
         const tierSixMinions = [
             'Amalgadon',
             'Dread Admiral Eliza',
+            'Elistra the Immortal',
             'Foe Reaper 4000',
             'Gentle Djinni',
             'Ghastcoiler',
+            'Goldrinn, the Great Wolf',
             'Imp Mama',
             'Kalecgos, Arcane Aspect',
             'Kangor\'s Apprentice',
             'Lieutenant Garr',
             'Lil\' Rag',
             'Maexxna',
-            'Nadina the Red',
-            'Zapp Slywick',
             'The Tide Razor',
-            'Goldrinn, the Great Wolf'
+            'Nadina the Red',
+            'Zapp Slywick'
         ];
         const tierSixCopies = 7;
         tierSixMinions.forEach((tierSixMinion) => {

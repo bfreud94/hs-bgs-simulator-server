@@ -24,6 +24,7 @@ const tierTwoMinions = [
     'Southsea Captain',
     'Spawn of N\'Zoth',
     'Steward of Time',
+    'Tormented Ritualist',
     'Unstable Ghoul',
     'Menagerie Mug',
     'Waxrider Togwaggle',

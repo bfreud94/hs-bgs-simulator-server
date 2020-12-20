@@ -8,19 +8,20 @@ const path = require('path');
 const tierSixMinions = [
     'Amalgadon',
     'Dread Admiral Eliza',
+    'Elistra the Immortal',
     'Foe Reaper 4000',
     'Gentle Djinni',
     'Ghastcoiler',
+    'Goldrinn, the Great Wolf',
     'Imp Mama',
     'Kalecgos, Arcane Aspect',
     'Kangor\'s Apprentice',
     'Lieutenant Garr',
     'Lil\' Rag',
     'Maexxna',
-    'Nadina the Red',
-    'Zapp Slywick',
     'The Tide Razor',
-    'Goldrinn, the Great Wolf'
+    'Nadina the Red',
+    'Zapp Slywick'
 ];
 
 const tierSixCopies = 7;

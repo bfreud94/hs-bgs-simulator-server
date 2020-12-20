@@ -7,8 +7,8 @@ const path = require('path');
 
 const tierOneMinions = [
     'Alleycat',
+    'Acolyte of C\'Thun',
     'Deck Swabbie',
-    'Scallywag',
     'Dragonspawn Lieutenant',
     'Fiendish Servant',
     'Micro Machine',
@@ -17,8 +17,8 @@ const tierOneMinions = [
     'Murloc Tidehunter',
     'Red Whelp',
     'Refreshing Anomaly',
-    'Righteous Protector',
     'Rockpool Hunter',
+    'Scallywag',
     'Scavenging Hyena',
     'Sellemental',
     'Vulgar Homunculus',

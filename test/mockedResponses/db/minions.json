@@ -1,970 +1,1018 @@
 [
-      {
+    {
         "_id": "5fb053f4acb45e288065a88a",
         "minionName": "Alleycat",
         "tier": "1",
         "tribe": "Beast",
         "imageLocation": "/img/TierOne/Beast/Alleycat.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a88b",
         "minionName": "Scavenging Hyena",
         "tier": "1",
         "tribe": "Beast",
         "imageLocation": "/img/TierOne/Beast/ScavengingHyena.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a88c",
         "minionName": "Fiendish Servant",
         "tier": "1",
         "tribe": "Demon",
         "imageLocation": "/img/TierOne/Demon/FiendishServant.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a88d",
         "minionName": "Vulgar Homunculus",
         "tier": "1",
         "tribe": "Demon",
         "imageLocation": "/img/TierOne/Demon/VulgarHomunculus.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a88e",
         "minionName": "Wrath Weaver",
         "tier": "1",
         "tribe": "Demon",
         "imageLocation": "/img/TierOne/Demon/WrathWeaver.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a88f",
         "minionName": "Dragonspawn Lieutenant",
         "tier": "1",
         "tribe": "Dragon",
         "imageLocation": "/img/TierOne/Dragon/DragonspawnLieutenant.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a892",
         "minionName": "Sellemental",
         "tier": "1",
         "tribe": "Elemental",
         "imageLocation": "/img/TierOne/Elemental/Sellemental.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a890",
         "minionName": "Red Whelp",
         "tier": "1",
         "tribe": "Dragon",
         "imageLocation": "/img/TierOne/Dragon/RedWhelp.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a891",
-        "minionName": "Refreshing Anomaly",
-        "tier": "1",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierOne/Elemental/RefreshingAnomaly.png",
-        "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a896",
-        "minionName": "Murloc Tidehunter",
-        "tier": "1",
-        "tribe": "Murloc",
-        "imageLocation": "/img/TierOne/Murloc/MurlocTidehunter.png",
-        "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a894",
-        "minionName": "Micro Mummy",
-        "tier": "1",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierOne/Mech/MicroMummy.png",
-        "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a893",
         "minionName": "Micro Machine",
         "tier": "1",
         "tribe": "Mech",
         "imageLocation": "/img/TierOne/Mech/MicroMachine.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a897",
         "minionName": "Rockpool Hunter",
         "tier": "1",
         "tribe": "Murloc",
         "imageLocation": "/img/TierOne/Murloc/RockpoolHunter.png",
         "__v": 0
-      },
-      {
+    },
+    {
+        "_id": "5fb053f4acb45e288065a891",
+        "minionName": "Refreshing Anomaly",
+        "tier": "1",
+        "tribe": "Elemental",
+        "imageLocation": "/img/TierOne/Elemental/RefreshingAnomaly.png",
+        "__v": 0
+    },
+    {
         "_id": "5fb053f4acb45e288065a895",
         "minionName": "Murloc Tidecaller",
         "tier": "1",
         "tribe": "Murloc",
         "imageLocation": "/img/TierOne/Murloc/MurlocTidecaller.png",
         "__v": 0
-      },
-      {
+    },
+    {
+        "_id": "5fb053f4acb45e288065a894",
+        "minionName": "Micro Mummy",
+        "tier": "1",
+        "tribe": "Mech",
+        "imageLocation": "/img/TierOne/Mech/MicroMummy.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fb053f4acb45e288065a896",
+        "minionName": "Murloc Tidehunter",
+        "tier": "1",
+        "tribe": "Murloc",
+        "imageLocation": "/img/TierOne/Murloc/MurlocTidehunter.png",
+        "__v": 0
+    },
+    {
         "_id": "5fb053f4acb45e288065a89a",
         "minionName": "Scallywag",
         "tier": "1",
         "tribe": "Pirate",
         "imageLocation": "/img/TierOne/Pirate/Scallywag.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a898",
-        "minionName": "Righteous Protector",
-        "tier": "1",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierOne/Neutral/RighteousProtector.png",
-        "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a89d",
-        "minionName": "Rabid Saurolisk",
-        "tier": "2",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierTwo/Beast/RabidSaurolisk.png",
-        "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a89e",
-        "minionName": "Imprisoner",
-        "tier": "2",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierTwo/Demon/Imprisoner.png",
-        "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8a1",
         "minionName": "Steward of Time",
         "tier": "2",
         "tribe": "Dragon",
         "imageLocation": "/img/TierTwo/Dragon/StewardOfTime.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8a0",
-        "minionName": "Glyph Guardian",
+    },
+    {
+        "_id": "5fb053f4acb45e288065a89d",
+        "minionName": "Rabid Saurolisk",
         "tier": "2",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierTwo/Dragon/GlyphGuardian.png",
+        "tribe": "Beast",
+        "imageLocation": "/img/TierTwo/Beast/RabidSaurolisk.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a89f",
         "minionName": "Nathrezim Overseer",
         "tier": "2",
         "tribe": "Demon",
         "imageLocation": "/img/TierTwo/Demon/NathrezimOverseer.png",
         "__v": 0
-      },
-      {
+    },
+    {
+        "_id": "5fb053f4acb45e288065a89e",
+        "minionName": "Imprisoner",
+        "tier": "2",
+        "tribe": "Demon",
+        "imageLocation": "/img/TierTwo/Demon/Imprisoner.png",
+        "__v": 0
+    },
+    {
         "_id": "5fb053f4acb45e288065a89b",
         "minionName": "Kindly Grandmother",
         "tier": "2",
         "tribe": "Beast",
         "imageLocation": "/img/TierTwo/Beast/KindlyGrandmother.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a89c",
-        "minionName": "Pack Leader",
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8a0",
+        "minionName": "Glyph Guardian",
         "tier": "2",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierTwo/Beast/PackLeader.png",
+        "tribe": "Dragon",
+        "imageLocation": "/img/TierTwo/Dragon/GlyphGuardian.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a899",
         "minionName": "Deck Swabbie",
         "tier": "1",
         "tribe": "Pirate",
         "imageLocation": "/img/TierOne/Pirate/DeckSwabbie.png",
         "__v": 0
-      },
-      {
+    },
+    {
+        "_id": "5fb053f4acb45e288065a89c",
+        "minionName": "Pack Leader",
+        "tier": "2",
+        "tribe": "Beast",
+        "imageLocation": "/img/TierTwo/Beast/PackLeader.png",
+        "__v": 0
+    },
+    {
         "_id": "5fb053f4acb45e288065a8a2",
         "minionName": "Waxrider Togwaggle",
         "tier": "2",
         "tribe": "Dragon",
         "imageLocation": "/img/TierTwo/Dragon/WaxriderTogwaggle.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8a3",
         "minionName": "Molten Rock",
         "tier": "2",
         "tribe": "Elemental",
         "imageLocation": "/img/TierTwo/Elemental/MoltenRock.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8a4",
         "minionName": "Party Elemental",
         "tier": "2",
         "tribe": "Elemental",
         "imageLocation": "/img/TierTwo/Elemental/PartyElemental.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8a5",
         "minionName": "Harvest Golem",
         "tier": "2",
         "tribe": "Mech",
         "imageLocation": "/img/TierTwo/Mech/HarvestGolem.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8a7",
-        "minionName": "Metaltooth Leaper",
-        "tier": "2",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierTwo/Mech/MetaltoothLeaper.png",
-        "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8a8",
-        "minionName": "Murloc Warleader",
-        "tier": "2",
-        "tribe": "Murloc",
-        "imageLocation": "/img/TierTwo/Murloc/MurlocWarleader.png",
-        "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8a6",
-        "minionName": "Kaboom Bot",
-        "tier": "2",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierTwo/Mech/KaboomBot.png",
-        "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8aa",
         "minionName": "Menagerie Mug",
         "tier": "2",
         "tribe": "Neutral",
         "imageLocation": "/img/TierTwo/Neutral/MenagerieMug.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8a9",
-        "minionName": "Old Murk-Eye",
-        "tier": "2",
-        "tribe": "Murloc",
-        "imageLocation": "/img/TierTwo/Murloc/OldMurk-Eye.png",
-        "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8ab",
         "minionName": "Selfless Hero",
         "tier": "2",
         "tribe": "Neutral",
         "imageLocation": "/img/TierTwo/Neutral/SelflessHero.png",
         "__v": 0
-      },
-      {
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8a6",
+        "minionName": "Kaboom Bot",
+        "tier": "2",
+        "tribe": "Mech",
+        "imageLocation": "/img/TierTwo/Mech/KaboomBot.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8a7",
+        "minionName": "Metaltooth Leaper",
+        "tier": "2",
+        "tribe": "Mech",
+        "imageLocation": "/img/TierTwo/Mech/MetaltoothLeaper.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8a8",
+        "minionName": "Murloc Warleader",
+        "tier": "2",
+        "tribe": "Murloc",
+        "imageLocation": "/img/TierTwo/Murloc/MurlocWarleader.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8a9",
+        "minionName": "Old Murk-Eye",
+        "tier": "2",
+        "tribe": "Murloc",
+        "imageLocation": "/img/TierTwo/Murloc/OldMurk-Eye.png",
+        "__v": 0
+    },
+    {
         "_id": "5fb053f4acb45e288065a8ad",
         "minionName": "Unstable Ghoul",
         "tier": "2",
         "tribe": "Neutral",
         "imageLocation": "/img/TierTwo/Neutral/UnstableGhoul.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8ac",
         "minionName": "Spawn of N'Zoth",
         "tier": "2",
         "tribe": "Neutral",
         "imageLocation": "/img/TierTwo/Neutral/SpawnOfN'Zoth.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8ae",
-        "minionName": "Freedealing Gambler",
-        "tier": "2",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierTwo/Pirate/FreedealingGambler.png",
-        "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8af",
         "minionName": "Southsea Captain",
         "tier": "2",
         "tribe": "Pirate",
         "imageLocation": "/img/TierTwo/Pirate/SouthseaCaptain.png",
         "__v": 0
-      },
-      {
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8ae",
+        "minionName": "Freedealing Gambler",
+        "tier": "2",
+        "tribe": "Pirate",
+        "imageLocation": "/img/TierTwo/Pirate/FreedealingGambler.png",
+        "__v": 0
+    },
+    {
         "_id": "5fb053f4acb45e288065a8b2",
         "minionName": "Infested Wolf",
         "tier": "3",
         "tribe": "Beast",
         "imageLocation": "/img/TierThree/Beast/InfestedWolf.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8b0",
         "minionName": "Yo-Ho-Ogre",
         "tier": "2",
         "tribe": "Pirate",
         "imageLocation": "/img/TierTwo/Pirate/Yo-Ho-Ogre.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8b1",
         "minionName": "Houndmaster",
         "tier": "3",
         "tribe": "Beast",
         "imageLocation": "/img/TierThree/Beast/Houndmaster.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8b6",
         "minionName": "Crystalweaver",
         "tier": "3",
         "tribe": "Demon",
         "imageLocation": "/img/TierThree/Demon/Crystalweaver.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8b4",
         "minionName": "Rat Pack",
         "tier": "3",
         "tribe": "Beast",
         "imageLocation": "/img/TierThree/Beast/RatPack.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8b5",
-        "minionName": "The Beast",
-        "tier": "3",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierThree/Beast/TheBeast.png",
-        "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8b7",
         "minionName": "Imp Gang Boss",
         "tier": "3",
         "tribe": "Demon",
         "imageLocation": "/img/TierThree/Demon/ImpGangBoss.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8b3",
         "minionName": "Monstrous Macaw",
         "tier": "3",
         "tribe": "Beast",
         "imageLocation": "/img/TierThree/Beast/MonstrousMacaw.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8b8",
         "minionName": "Soul Juggler",
         "tier": "3",
         "tribe": "Demon",
         "imageLocation": "/img/TierThree/Demon/SoulJuggler.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8b9",
         "minionName": "Bronze Warden",
         "tier": "3",
         "tribe": "Dragon",
         "imageLocation": "/img/TierThree/Dragon/BronzeWarden.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8bb",
         "minionName": "Twilight Emissary",
         "tier": "3",
         "tribe": "Dragon",
         "imageLocation": "/img/TierThree/Dragon/TwilightEmissary.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8bc",
         "minionName": "Arcane Assistant",
         "tier": "3",
         "tribe": "Elemental",
         "imageLocation": "/img/TierThree/Elemental/ArcaneAssistant.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8ba",
         "minionName": "Hangry Dragon",
         "tier": "3",
         "tribe": "Dragon",
         "imageLocation": "/img/TierThree/Dragon/HangryDragon.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8c0",
         "minionName": "Iron Sensei",
         "tier": "3",
         "tribe": "Mech",
         "imageLocation": "/img/TierThree/Mech/IronSensei.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8bf",
-        "minionName": "Deflect-o-Bot",
-        "tier": "3",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierThree/Mech/Deflect-o-Bot.png",
-        "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8be",
         "minionName": "Stasis Elemental",
         "tier": "3",
         "tribe": "Elemental",
         "imageLocation": "/img/TierThree/Elemental/StasisElemental.png",
         "__v": 0
-      },
-      {
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8bf",
+        "minionName": "Deflect-o-Bot",
+        "tier": "3",
+        "tribe": "Mech",
+        "imageLocation": "/img/TierThree/Mech/Deflect-o-Bot.png",
+        "__v": 0
+    },
+    {
         "_id": "5fb053f4acb45e288065a8bd",
         "minionName": "Crackling Cyclone",
         "tier": "3",
         "tribe": "Elemental",
         "imageLocation": "/img/TierThree/Elemental/CracklingCyclone.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8c4",
         "minionName": "Coldlight Seer",
         "tier": "3",
         "tribe": "Murloc",
         "imageLocation": "/img/TierThree/Murloc/ColdlightSeer.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8c3",
-        "minionName": "Screwjank Clunker",
-        "tier": "3",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierThree/Mech/ScrewjankClunker.png",
-        "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8c2",
         "minionName": "Replicating Menace",
         "tier": "3",
         "tribe": "Mech",
         "imageLocation": "/img/TierThree/Mech/ReplicatingMenace.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8c1",
         "minionName": "Piloted Shredder",
         "tier": "3",
         "tribe": "Mech",
         "imageLocation": "/img/TierThree/Mech/PilotedShredder.png",
         "__v": 0
-      },
-      {
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8c3",
+        "minionName": "Screwjank Clunker",
+        "tier": "3",
+        "tribe": "Mech",
+        "imageLocation": "/img/TierThree/Mech/ScrewjankClunker.png",
+        "__v": 0
+    },
+    {
         "_id": "5fb053f4acb45e288065a8c5",
         "minionName": "Felfin Navigator",
         "tier": "3",
         "tribe": "Murloc",
         "imageLocation": "/img/TierThree/Murloc/FelfinNavigator.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8c6",
-        "minionName": "Crowd Favorite",
-        "tier": "3",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierThree/Neutral/CrowdFavorite.png",
-        "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8c9",
-        "minionName": "Bloodsail Cannoneer",
-        "tier": "3",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierThree/Pirate/BloodsailCannoneer.png",
-        "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8c7",
         "minionName": "Khadgar",
         "tier": "3",
         "tribe": "Neutral",
         "imageLocation": "/img/TierThree/Neutral/Khadgar.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8c8",
-        "minionName": "Shifter Zerus",
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8c9",
+        "minionName": "Bloodsail Cannoneer",
         "tier": "3",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierThree/Neutral/ShifterZerus.png",
+        "tribe": "Pirate",
+        "imageLocation": "/img/TierThree/Pirate/BloodsailCannoneer.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8ca",
         "minionName": "Salty Looter",
         "tier": "3",
         "tribe": "Pirate",
         "imageLocation": "/img/TierThree/Pirate/SaltyLooter.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8cc",
         "minionName": "Cave Hydra",
         "tier": "4",
         "tribe": "Beast",
         "imageLocation": "/img/TierFour/Beast/CaveHydra.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8cb",
         "minionName": "Southsea Strongarm",
         "tier": "3",
         "tribe": "Pirate",
         "imageLocation": "/img/TierThree/Pirate/SouthseaStrongarm.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8d5",
         "minionName": "Wildfire Elemental",
         "tier": "4",
         "tribe": "Elemental",
         "imageLocation": "/img/TierFour/Elemental/WildfireElemental.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8d4",
-        "minionName": "Majordomo Executus",
-        "tier": "4",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierFour/Elemental/MajordomoExecutus.png",
-        "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8d2",
-        "minionName": "Drakonid Enforcer",
-        "tier": "4",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFour/Dragon/DrakonidEnforcer.png",
-        "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8d0",
-        "minionName": "Siegebreaker",
-        "tier": "4",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFour/Demon/Siegebreaker.png",
-        "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8d1",
-        "minionName": "Cobalt Scalebane",
-        "tier": "4",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFour/Dragon/CobaltScalebane.png",
-        "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8cf",
-        "minionName": "Floating Watcher",
-        "tier": "4",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFour/Demon/FloatingWatcher.png",
-        "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8cd",
         "minionName": "Savannah Highmane",
         "tier": "4",
         "tribe": "Beast",
         "imageLocation": "/img/TierFour/Beast/SavannahHighmane.png",
         "__v": 0
-      },
-      {
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8cf",
+        "minionName": "Floating Watcher",
+        "tier": "4",
+        "tribe": "Demon",
+        "imageLocation": "/img/TierFour/Demon/FloatingWatcher.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8d2",
+        "minionName": "Drakonid Enforcer",
+        "tier": "4",
+        "tribe": "Dragon",
+        "imageLocation": "/img/TierFour/Dragon/DrakonidEnforcer.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8d0",
+        "minionName": "Siegebreaker",
+        "tier": "4",
+        "tribe": "Demon",
+        "imageLocation": "/img/TierFour/Demon/Siegebreaker.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8d1",
+        "minionName": "Cobalt Scalebane",
+        "tier": "4",
+        "tribe": "Dragon",
+        "imageLocation": "/img/TierFour/Dragon/CobaltScalebane.png",
+        "__v": 0
+    },
+    {
         "_id": "5fb053f4acb45e288065a8ce",
         "minionName": "Virmen Sensei",
         "tier": "4",
         "tribe": "Beast",
         "imageLocation": "/img/TierFour/Beast/VirmenSensei.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8d3",
-        "minionName": "Herald of Flame",
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8d4",
+        "minionName": "Majordomo Executus",
         "tier": "4",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFour/Dragon/HeraldOfFlame.png",
+        "tribe": "Elemental",
+        "imageLocation": "/img/TierFour/Elemental/MajordomoExecutus.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8d6",
         "minionName": "Annoy-o-Module",
         "tier": "4",
         "tribe": "Mech",
         "imageLocation": "/img/TierFour/Mech/Annoy-o-Module.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8d8",
-        "minionName": "Security Rover",
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8d3",
+        "minionName": "Herald of Flame",
         "tier": "4",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierFour/Mech/SecurityRover.png",
+        "tribe": "Dragon",
+        "imageLocation": "/img/TierFour/Dragon/HeraldOfFlame.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8d9",
-        "minionName": "Primalfin Lookout",
-        "tier": "4",
-        "tribe": "Murloc",
-        "imageLocation": "/img/TierFour/Murloc/PrimalfinLookout.png",
-        "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8d7",
         "minionName": "Mechano-Egg",
         "tier": "4",
         "tribe": "Mech",
         "imageLocation": "/img/TierFour/Mech/Mechano-Egg.png",
         "__v": 0
-      },
-      {
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8d8",
+        "minionName": "Security Rover",
+        "tier": "4",
+        "tribe": "Mech",
+        "imageLocation": "/img/TierFour/Mech/SecurityRover.png",
+        "__v": 0
+    },
+    {
         "_id": "5fb053f4acb45e288065a8da",
         "minionName": "Toxfin",
         "tier": "4",
         "tribe": "Murloc",
         "imageLocation": "/img/TierFour/Murloc/Toxfin.png",
         "__v": 0
-      },
-      {
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8d9",
+        "minionName": "Primalfin Lookout",
+        "tier": "4",
+        "tribe": "Murloc",
+        "imageLocation": "/img/TierFour/Murloc/PrimalfinLookout.png",
+        "__v": 0
+    },
+    {
         "_id": "5fb053f4acb45e288065a8dc",
         "minionName": "Defender of Argus",
         "tier": "4",
         "tribe": "Neutral",
         "imageLocation": "/img/TierFour/Neutral/DefenderOfArgus.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8db",
         "minionName": "Bolvar, Fireblood",
         "tier": "4",
         "tribe": "Neutral",
         "imageLocation": "/img/TierFour/Neutral/BolvarFireblood.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8dd",
         "minionName": "Menagerie Jug",
         "tier": "4",
         "tribe": "Neutral",
         "imageLocation": "/img/TierFour/Neutral/MenagerieJug.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8df",
         "minionName": "Ripsnarl Captain",
         "tier": "4",
         "tribe": "Pirate",
         "imageLocation": "/img/TierFour/Pirate/RipsnarlCaptain.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8de",
-        "minionName": "Goldgrubber",
-        "tier": "4",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFour/Pirate/Goldgrubber.png",
-        "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8e0",
         "minionName": "Ironhide Direhorn",
         "tier": "5",
         "tribe": "Beast",
         "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8e2",
-        "minionName": "Annihilan Battlemaster",
-        "tier": "5",
-        "tribe": "Demon",
-        "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png",
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8de",
+        "minionName": "Goldgrubber",
+        "tier": "4",
+        "tribe": "Pirate",
+        "imageLocation": "/img/TierFour/Pirate/Goldgrubber.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8e1",
         "minionName": "Mama Bear",
         "tier": "5",
         "tribe": "Beast",
         "imageLocation": "/img/TierFive/Beast/MamaBear.png",
         "__v": 0
-      },
-      {
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8e2",
+        "minionName": "Annihilan Battlemaster",
+        "tier": "5",
+        "tribe": "Demon",
+        "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png",
+        "__v": 0
+    },
+    {
         "_id": "5fb053f4acb45e288065a8e3",
         "minionName": "Mal'Ganis",
         "tier": "5",
         "tribe": "Demon",
         "imageLocation": "/img/TierFive/Demon/Mal'Ganis.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8e4",
         "minionName": "Voidlord",
         "tier": "5",
         "tribe": "Demon",
         "imageLocation": "/img/TierFive/Demon/Voidlord.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8e7",
-        "minionName": "Nomi, Kitchen Nightmare",
-        "tier": "5",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png",
-        "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8e5",
-        "minionName": "Murozond",
-        "tier": "5",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFive/Dragon/Murozond.png",
-        "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8e6",
-        "minionName": "Razorgore, the Untamed",
-        "tier": "5",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png",
-        "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8e8",
         "minionName": "Tavern Tempest",
         "tier": "5",
         "tribe": "Elemental",
         "imageLocation": "/img/TierFive/Elemental/TavernTempest.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8eb",
-        "minionName": "King Bagurgle",
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8e6",
+        "minionName": "Razorgore, the Untamed",
         "tier": "5",
-        "tribe": "Murloc",
-        "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png",
+        "tribe": "Dragon",
+        "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8ec",
-        "minionName": "Baron Rivendare",
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8e5",
+        "minionName": "Murozond",
         "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png",
+        "tribe": "Dragon",
+        "imageLocation": "/img/TierFive/Dragon/Murozond.png",
         "__v": 0
-      },
-      {
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8e7",
+        "minionName": "Nomi, Kitchen Nightmare",
+        "tier": "5",
+        "tribe": "Elemental",
+        "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png",
+        "__v": 0
+    },
+    {
         "_id": "5fb053f4acb45e288065a8ea",
         "minionName": "Sneed's Old Shredder",
         "tier": "5",
         "tribe": "Mech",
         "imageLocation": "/img/TierFive/Mech/Sneed'sOldShredder.png",
         "__v": 0
-      },
-      {
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8eb",
+        "minionName": "King Bagurgle",
+        "tier": "5",
+        "tribe": "Murloc",
+        "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png",
+        "__v": 0
+    },
+    {
         "_id": "5fb053f4acb45e288065a8e9",
         "minionName": "Junkbot",
         "tier": "5",
         "tribe": "Mech",
         "imageLocation": "/img/TierFive/Mech/Junkbot.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8ef",
         "minionName": "Lightfang Enforcer",
         "tier": "5",
         "tribe": "Neutral",
         "imageLocation": "/img/TierFive/Neutral/LightfangEnforcer.png",
         "__v": 0
-      },
-      {
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8ec",
+        "minionName": "Baron Rivendare",
+        "tier": "5",
+        "tribe": "Neutral",
+        "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png",
+        "__v": 0
+    },
+    {
         "_id": "5fb053f4acb45e288065a8ee",
         "minionName": "Deadly Spore",
         "tier": "5",
         "tribe": "Neutral",
         "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8ed",
-        "minionName": "Brann Bronzebeard",
-        "tier": "5",
-        "tribe": "Neutral",
-        "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png",
-        "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8f0",
         "minionName": "Strongshell Scavenger",
         "tier": "5",
         "tribe": "Neutral",
         "imageLocation": "/img/TierFive/Neutral/StrongshellScavenger.png",
         "__v": 0
-      },
-      {
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8ed",
+        "minionName": "Brann Bronzebeard",
+        "tier": "5",
+        "tribe": "Neutral",
+        "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png",
+        "__v": 0
+    },
+    {
         "_id": "5fb053f4acb45e288065a8f1",
         "minionName": "Cap'n Hoggarr",
         "tier": "5",
         "tribe": "Pirate",
         "imageLocation": "/img/TierFive/Pirate/Cap'nHoggarr.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8f2",
         "minionName": "Nat Pagle, Extreme Angler",
         "tier": "5",
         "tribe": "Pirate",
         "imageLocation": "/img/TierFive/Pirate/NatPagleExtremeAngler.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8f4",
         "minionName": "Ghastcoiler",
         "tier": "6",
         "tribe": "Beast",
         "imageLocation": "/img/TierSix/Beast/Ghastcoiler.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8f3",
-        "minionName": "Seabreaker Goliath",
-        "tier": "5",
-        "tribe": "Pirate",
-        "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png",
-        "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8f5",
-        "minionName": "Goldrinn, the Great Wolf",
-        "tier": "6",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierSix/Beast/GoldrinnTheGreatWolf.png",
-        "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8f6",
-        "minionName": "Maexxna",
-        "tier": "6",
-        "tribe": "Beast",
-        "imageLocation": "/img/TierSix/Beast/Maexxna.png",
-        "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8f7",
         "minionName": "Imp Mama",
         "tier": "6",
         "tribe": "Demon",
         "imageLocation": "/img/TierSix/Demon/ImpMama.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8f8",
-        "minionName": "Kalecgos, Arcane Aspect",
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8f5",
+        "minionName": "Goldrinn, the Great Wolf",
         "tier": "6",
-        "tribe": "Dragon",
-        "imageLocation": "/img/TierSix/Dragon/KalecgosArcaneAspect.png",
+        "tribe": "Beast",
+        "imageLocation": "/img/TierSix/Beast/GoldrinnTheGreatWolf.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8fa",
         "minionName": "Gentle Djinni",
         "tier": "6",
         "tribe": "Elemental",
         "imageLocation": "/img/TierSix/Elemental/GentleDjinni.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8f9",
-        "minionName": "Nadina the Red",
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8f6",
+        "minionName": "Maexxna",
+        "tier": "6",
+        "tribe": "Beast",
+        "imageLocation": "/img/TierSix/Beast/Maexxna.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8f3",
+        "minionName": "Seabreaker Goliath",
+        "tier": "5",
+        "tribe": "Pirate",
+        "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8f8",
+        "minionName": "Kalecgos, Arcane Aspect",
         "tier": "6",
         "tribe": "Dragon",
-        "imageLocation": "/img/TierSix/Dragon/NadinaTheRed.png",
+        "imageLocation": "/img/TierSix/Dragon/KalecgosArcaneAspect.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8fb",
-        "minionName": "Lieutenant Garr",
-        "tier": "6",
-        "tribe": "Elemental",
-        "imageLocation": "/img/TierSix/Elemental/LieutenantGarr.png",
-        "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8fc",
         "minionName": "Lil' Rag",
         "tier": "6",
         "tribe": "Elemental",
         "imageLocation": "/img/TierSix/Elemental/Lil'Rag.png",
         "__v": 0
-      },
-      {
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8fb",
+        "minionName": "Lieutenant Garr",
+        "tier": "6",
+        "tribe": "Elemental",
+        "imageLocation": "/img/TierSix/Elemental/LieutenantGarr.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8f9",
+        "minionName": "Nadina the Red",
+        "tier": "6",
+        "tribe": "Dragon",
+        "imageLocation": "/img/TierSix/Dragon/NadinaTheRed.png",
+        "__v": 0
+    },
+    {
         "_id": "5fb053f4acb45e288065a8fd",
         "minionName": "Foe Reaper 4000",
         "tier": "6",
         "tribe": "Mech",
         "imageLocation": "/img/TierSix/Mech/FoeReaper4000.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a8ff",
         "minionName": "Amalgadon",
         "tier": "6",
         "tribe": "Neutral",
         "imageLocation": "/img/TierSix/Neutral/Amalgadon.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a900",
         "minionName": "Zapp Slywick",
         "tier": "6",
         "tribe": "Neutral",
         "imageLocation": "/img/TierSix/Neutral/ZappSlywick.png",
         "__v": 0
-      },
-      {
-        "_id": "5fb053f4acb45e288065a8fe",
-        "minionName": "Kangor's Apprentice",
-        "tier": "6",
-        "tribe": "Mech",
-        "imageLocation": "/img/TierSix/Mech/Kangor'sApprentice.png",
-        "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a901",
         "minionName": "Dread Admiral Eliza",
         "tier": "6",
         "tribe": "Pirate",
         "imageLocation": "/img/TierSix/Pirate/DreadAdmiralEliza.png",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": "5fb053f4acb45e288065a902",
         "minionName": "The Tide Razor",
         "tier": "6",
         "tribe": "Pirate",
         "imageLocation": "/img/TierSix/Pirate/TheTideRazor.png",
         "__v": 0
-      }
+    },
+    {
+        "_id": "5fb053f4acb45e288065a8fe",
+        "minionName": "Kangor's Apprentice",
+        "tier": "6",
+        "tribe": "Mech",
+        "imageLocation": "/img/TierSix/Mech/Kangor'sApprentice.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fdfa1ec2ff9222548fb25d5",
+        "minionName": "Acolyte of C'Thun",
+        "tier": "1",
+        "tribe": "Neutral",
+        "imageLocation": "/img/TierOne/Neutral/AcolyteOfC'Thun.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fdfa2172ff9222548fb25d6",
+        "minionName": "Tormented Ritualist",
+        "tier": "2",
+        "tribe": "Neutral",
+        "imageLocation": "/img/TierTwo/Neutral/TormentedRitualist.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fdfa2632ff9222548fb25d7",
+        "minionName": "Warden of Old",
+        "tier": "3",
+        "tribe": "Neutral",
+        "imageLocation": "/img/TierThree/Neutral/WardenOfOld.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fdfa2812ff9222548fb25d8",
+        "minionName": "Arm of the Empire",
+        "tier": "3",
+        "tribe": "Neutral",
+        "imageLocation": "/img/TierThree/Neutral/ArmOfTheEmpire.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fdfa2ac2ff9222548fb25d9",
+        "minionName": "Bigfernal",
+        "tier": "4",
+        "tribe": "Demon",
+        "imageLocation": "/img/TierFour/Demon/Bigfernal.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fdfa2c22ff9222548fb25da",
+        "minionName": "Qiraji Harbinger",
+        "tier": "4",
+        "tribe": "Neutral",
+        "imageLocation": "/img/TierFour/Neutral/QirajiHarbinger.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fdfa2d92ff9222548fb25db",
+        "minionName": "Champion of Y'Shaarj",
+        "tier": "4",
+        "tribe": "Neutral",
+        "imageLocation": "/img/TierFour/Neutral/ChampionOfY'Shaarj.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fdfa2fe2ff9222548fb25dc",
+        "minionName": "Faceless Taverngoer",
+        "tier": "5",
+        "tribe": "Neutral",
+        "imageLocation": "/img/TierFive/Neutral/FacelessTaverngoer.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fdfa3172ff9222548fb25dd",
+        "minionName": "Mythrax the Unraveler",
+        "tier": "5",
+        "tribe": "Neutral",
+        "imageLocation": "/img/TierFive/Neutral/MythraxTheUnraveler.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fdfa3332ff9222548fb25de",
+        "minionName": "Elistra the Immortal",
+        "tier": "6",
+        "tribe": "Neutral",
+        "imageLocation": "/img/TierSix/Neutral/ElistraTheImmortal.png",
+        "__v": 0
+    }
 ]

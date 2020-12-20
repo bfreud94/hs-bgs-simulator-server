@@ -7,10 +7,10 @@ const path = require('path');
 
 const tierThreeMinions = [
     'Arcane Assistant',
+    'Arm of the Empire',
     'Bloodsail Cannoneer',
     'Bronze Warden',
     'Coldlight Seer',
-    'Crowd Favorite',
     'Crystalweaver',
     'Deflect-o-Bot',
     'Felfin Navigator',
@@ -26,13 +26,12 @@ const tierThreeMinions = [
     'Replicating Menace',
     'Salty Looter',
     'Screwjank Clunker',
-    'Shifter Zerus',
     'Soul Juggler',
     'Southsea Strongarm',
     'Stasis Elemental',
-    'The Beast',
     'Crackling Cyclone',
-    'Twilight Emissary'
+    'Twilight Emissary',
+    'Warden of Old'
 ];
 
 const tierThreeCopies = 13;

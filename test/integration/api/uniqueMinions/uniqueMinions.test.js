@@ -24,11 +24,11 @@ const numberToString = {
 
 const totalMinions = {
     1: 17,
-    2: 22,
-    3: 27,
-    4: 20,
-    5: 20,
-    6: 15
+    2: 23,
+    3: 26,
+    4: 23,
+    5: 22,
+    6: 16
 };
 
 // Integration test for uniqueMinions API
@@ -63,7 +63,7 @@ describe('Unique Minion API', () => {
                 let sum = 0;
                 minions.forEach((minion) => {
                     const { tier, tribe, imageLocation } = minion;
-                    const minionName = minion.minionName.replace(/\s/g, '');
+                    const minionName = minion.minionName.replace(' the ', ' The ').replace(' of ', ' Of ').replace(',', '').replace(/\s/g, '');
                     // Minion tier equals tavern tier
                     expect(tier).to.equal(tavernTier);
                     // Concatenate tier, tribe, and minionName to verify imageLocation

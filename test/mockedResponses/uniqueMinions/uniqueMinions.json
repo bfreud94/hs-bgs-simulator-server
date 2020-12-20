@@ -14,10 +14,10 @@
                 "imageLocation": "/img/TierOne/Beast/ScavengingHyena.png"
             },
             {
-                "minionName": "Wrath Weaver",
+                "minionName": "Fiendish Servant",
                 "tier": "1",
                 "tribe": "Demon",
-                "imageLocation": "/img/TierOne/Demon/WrathWeaver.png"
+                "imageLocation": "/img/TierOne/Demon/FiendishServant.png"
             },
             {
                 "minionName": "Vulgar Homunculus",
@@ -26,16 +26,10 @@
                 "imageLocation": "/img/TierOne/Demon/VulgarHomunculus.png"
             },
             {
-                "minionName": "Fiendish Servant",
+                "minionName": "Wrath Weaver",
                 "tier": "1",
                 "tribe": "Demon",
-                "imageLocation": "/img/TierOne/Demon/FiendishServant.png"
-            },
-            {
-                "minionName": "Red Whelp",
-                "tier": "1",
-                "tribe": "Dragon",
-                "imageLocation": "/img/TierOne/Dragon/RedWhelp.png"
+                "imageLocation": "/img/TierOne/Demon/WrathWeaver.png"
             },
             {
                 "minionName": "Dragonspawn Lieutenant",
@@ -44,22 +38,16 @@
                 "imageLocation": "/img/TierOne/Dragon/DragonspawnLieutenant.png"
             },
             {
-                "minionName": "Refreshing Anomaly",
-                "tier": "1",
-                "tribe": "Elemental",
-                "imageLocation": "/img/TierOne/Elemental/RefreshingAnomaly.png"
-            },
-            {
                 "minionName": "Sellemental",
                 "tier": "1",
                 "tribe": "Elemental",
                 "imageLocation": "/img/TierOne/Elemental/Sellemental.png"
             },
             {
-                "minionName": "Murloc Tidehunter",
+                "minionName": "Red Whelp",
                 "tier": "1",
-                "tribe": "Murloc",
-                "imageLocation": "/img/TierOne/Murloc/MurlocTidehunter.png"
+                "tribe": "Dragon",
+                "imageLocation": "/img/TierOne/Dragon/RedWhelp.png"
             },
             {
                 "minionName": "Micro Machine",
@@ -68,28 +56,16 @@
                 "imageLocation": "/img/TierOne/Mech/MicroMachine.png"
             },
             {
-                "minionName": "Deck Swabbie",
-                "tier": "1",
-                "tribe": "Pirate",
-                "imageLocation": "/img/TierOne/Pirate/DeckSwabbie.png"
-            },
-            {
                 "minionName": "Rockpool Hunter",
                 "tier": "1",
                 "tribe": "Murloc",
                 "imageLocation": "/img/TierOne/Murloc/RockpoolHunter.png"
             },
             {
-                "minionName": "Righteous Protector",
+                "minionName": "Refreshing Anomaly",
                 "tier": "1",
-                "tribe": "Neutral",
-                "imageLocation": "/img/TierOne/Neutral/RighteousProtector.png"
-            },
-            {
-                "minionName": "Scallywag",
-                "tier": "1",
-                "tribe": "Pirate",
-                "imageLocation": "/img/TierOne/Pirate/Scallywag.png"
+                "tribe": "Elemental",
+                "imageLocation": "/img/TierOne/Elemental/RefreshingAnomaly.png"
             },
             {
                 "minionName": "Murloc Tidecaller",
@@ -102,20 +78,38 @@
                 "tier": "1",
                 "tribe": "Mech",
                 "imageLocation": "/img/TierOne/Mech/MicroMummy.png"
+            },
+            {
+                "minionName": "Murloc Tidehunter",
+                "tier": "1",
+                "tribe": "Murloc",
+                "imageLocation": "/img/TierOne/Murloc/MurlocTidehunter.png"
+            },
+            {
+                "minionName": "Scallywag",
+                "tier": "1",
+                "tribe": "Pirate",
+                "imageLocation": "/img/TierOne/Pirate/Scallywag.png"
+            },
+            {
+                "minionName": "Deck Swabbie",
+                "tier": "1",
+                "tribe": "Pirate",
+                "imageLocation": "/img/TierOne/Pirate/DeckSwabbie.png"
+            },
+            {
+                "minionName": "Acolyte of C'Thun",
+                "tier": "1",
+                "tribe": "Neutral",
+                "imageLocation": "/img/TierOne/Neutral/AcolyteOfC'Thun.png"
             }
         ],
         "2": [
             {
-                "minionName": "Pack Leader",
+                "minionName": "Steward of Time",
                 "tier": "2",
-                "tribe": "Beast",
-                "imageLocation": "/img/TierTwo/Beast/PackLeader.png"
-            },
-            {
-                "minionName": "Kindly Grandmother",
-                "tier": "2",
-                "tribe": "Beast",
-                "imageLocation": "/img/TierTwo/Beast/KindlyGrandmother.png"
+                "tribe": "Dragon",
+                "imageLocation": "/img/TierTwo/Dragon/StewardOfTime.png"
             },
             {
                 "minionName": "Rabid Saurolisk",
@@ -124,16 +118,10 @@
                 "imageLocation": "/img/TierTwo/Beast/RabidSaurolisk.png"
             },
             {
-                "minionName": "Party Elemental",
+                "minionName": "Nathrezim Overseer",
                 "tier": "2",
-                "tribe": "Elemental",
-                "imageLocation": "/img/TierTwo/Elemental/PartyElemental.png"
-            },
-            {
-                "minionName": "Glyph Guardian",
-                "tier": "2",
-                "tribe": "Dragon",
-                "imageLocation": "/img/TierTwo/Dragon/GlyphGuardian.png"
+                "tribe": "Demon",
+                "imageLocation": "/img/TierTwo/Demon/NathrezimOverseer.png"
             },
             {
                 "minionName": "Imprisoner",
@@ -142,16 +130,28 @@
                 "imageLocation": "/img/TierTwo/Demon/Imprisoner.png"
             },
             {
+                "minionName": "Kindly Grandmother",
+                "tier": "2",
+                "tribe": "Beast",
+                "imageLocation": "/img/TierTwo/Beast/KindlyGrandmother.png"
+            },
+            {
+                "minionName": "Glyph Guardian",
+                "tier": "2",
+                "tribe": "Dragon",
+                "imageLocation": "/img/TierTwo/Dragon/GlyphGuardian.png"
+            },
+            {
+                "minionName": "Pack Leader",
+                "tier": "2",
+                "tribe": "Beast",
+                "imageLocation": "/img/TierTwo/Beast/PackLeader.png"
+            },
+            {
                 "minionName": "Waxrider Togwaggle",
                 "tier": "2",
                 "tribe": "Dragon",
                 "imageLocation": "/img/TierTwo/Dragon/WaxriderTogwaggle.png"
-            },
-            {
-                "minionName": "Harvest Golem",
-                "tier": "2",
-                "tribe": "Mech",
-                "imageLocation": "/img/TierTwo/Mech/HarvestGolem.png"
             },
             {
                 "minionName": "Molten Rock",
@@ -160,40 +160,16 @@
                 "imageLocation": "/img/TierTwo/Elemental/MoltenRock.png"
             },
             {
-                "minionName": "Nathrezim Overseer",
+                "minionName": "Party Elemental",
                 "tier": "2",
-                "tribe": "Demon",
-                "imageLocation": "/img/TierTwo/Demon/NathrezimOverseer.png"
+                "tribe": "Elemental",
+                "imageLocation": "/img/TierTwo/Elemental/PartyElemental.png"
             },
             {
-                "minionName": "Kaboom Bot",
+                "minionName": "Harvest Golem",
                 "tier": "2",
                 "tribe": "Mech",
-                "imageLocation": "/img/TierTwo/Mech/KaboomBot.png"
-            },
-            {
-                "minionName": "Steward Of Time",
-                "tier": "2",
-                "tribe": "Dragon",
-                "imageLocation": "/img/TierTwo/Dragon/StewardOfTime.png"
-            },
-            {
-                "minionName": "Metaltooth Leaper",
-                "tier": "2",
-                "tribe": "Mech",
-                "imageLocation": "/img/TierTwo/Mech/MetaltoothLeaper.png"
-            },
-            {
-                "minionName": "Murloc Warleader",
-                "tier": "2",
-                "tribe": "Murloc",
-                "imageLocation": "/img/TierTwo/Murloc/MurlocWarleader.png"
-            },
-            {
-                "minionName": "Old Murk Eye",
-                "tier": "2",
-                "tribe": "Murloc",
-                "imageLocation": "/img/TierTwo/Murloc/OldMurkEye.png"
+                "imageLocation": "/img/TierTwo/Mech/HarvestGolem.png"
             },
             {
                 "minionName": "Menagerie Mug",
@@ -208,10 +184,40 @@
                 "imageLocation": "/img/TierTwo/Neutral/SelflessHero.png"
             },
             {
+                "minionName": "Kaboom Bot",
+                "tier": "2",
+                "tribe": "Mech",
+                "imageLocation": "/img/TierTwo/Mech/KaboomBot.png"
+            },
+            {
+                "minionName": "Metaltooth Leaper",
+                "tier": "2",
+                "tribe": "Mech",
+                "imageLocation": "/img/TierTwo/Mech/MetaltoothLeaper.png"
+            },
+            {
+                "minionName": "Murloc Warleader",
+                "tier": "2",
+                "tribe": "Murloc",
+                "imageLocation": "/img/TierTwo/Murloc/MurlocWarleader.png"
+            },
+            {
+                "minionName": "Old Murk-Eye",
+                "tier": "2",
+                "tribe": "Murloc",
+                "imageLocation": "/img/TierTwo/Murloc/OldMurk-Eye.png"
+            },
+            {
                 "minionName": "Unstable Ghoul",
                 "tier": "2",
                 "tribe": "Neutral",
                 "imageLocation": "/img/TierTwo/Neutral/UnstableGhoul.png"
+            },
+            {
+                "minionName": "Spawn of N'Zoth",
+                "tier": "2",
+                "tribe": "Neutral",
+                "imageLocation": "/img/TierTwo/Neutral/SpawnOfN'Zoth.png"
             },
             {
                 "minionName": "Southsea Captain",
@@ -226,25 +232,19 @@
                 "imageLocation": "/img/TierTwo/Pirate/FreedealingGambler.png"
             },
             {
-                "minionName": "Yo Ho Ogre",
+                "minionName": "Yo-Ho-Ogre",
                 "tier": "2",
                 "tribe": "Pirate",
-                "imageLocation": "/img/TierTwo/Pirate/YoHoOgre.png"
+                "imageLocation": "/img/TierTwo/Pirate/Yo-Ho-Ogre.png"
             },
             {
-                "minionName": "Spawn Of NZoth",
+                "minionName": "Tormented Ritualist",
                 "tier": "2",
                 "tribe": "Neutral",
-                "imageLocation": "/img/TierTwo/Neutral/SpawnOfNZoth.png"
+                "imageLocation": "/img/TierTwo/Neutral/TormentedRitualist.png"
             }
         ],
         "3": [
-            {
-                "minionName": "Houndmaster",
-                "tier": "3",
-                "tribe": "Beast",
-                "imageLocation": "/img/TierThree/Beast/Houndmaster.png"
-            },
             {
                 "minionName": "Infested Wolf",
                 "tier": "3",
@@ -252,10 +252,10 @@
                 "imageLocation": "/img/TierThree/Beast/InfestedWolf.png"
             },
             {
-                "minionName": "Monstrous Macaw",
+                "minionName": "Houndmaster",
                 "tier": "3",
                 "tribe": "Beast",
-                "imageLocation": "/img/TierThree/Beast/MonstrousMacaw.png"
+                "imageLocation": "/img/TierThree/Beast/Houndmaster.png"
             },
             {
                 "minionName": "Crystalweaver",
@@ -270,28 +270,16 @@
                 "imageLocation": "/img/TierThree/Beast/RatPack.png"
             },
             {
-                "minionName": "The Beast",
-                "tier": "3",
-                "tribe": "Beast",
-                "imageLocation": "/img/TierThree/Beast/TheBeast.png"
-            },
-            {
                 "minionName": "Imp Gang Boss",
                 "tier": "3",
                 "tribe": "Demon",
                 "imageLocation": "/img/TierThree/Demon/ImpGangBoss.png"
             },
             {
-                "minionName": "Bronze Warden",
+                "minionName": "Monstrous Macaw",
                 "tier": "3",
-                "tribe": "Dragon",
-                "imageLocation": "/img/TierThree/Dragon/BronzeWarden.png"
-            },
-            {
-                "minionName": "Hangry Dragon",
-                "tier": "3",
-                "tribe": "Dragon",
-                "imageLocation": "/img/TierThree/Dragon/HangryDragon.png"
+                "tribe": "Beast",
+                "imageLocation": "/img/TierThree/Beast/MonstrousMacaw.png"
             },
             {
                 "minionName": "Soul Juggler",
@@ -300,16 +288,16 @@
                 "imageLocation": "/img/TierThree/Demon/SoulJuggler.png"
             },
             {
+                "minionName": "Bronze Warden",
+                "tier": "3",
+                "tribe": "Dragon",
+                "imageLocation": "/img/TierThree/Dragon/BronzeWarden.png"
+            },
+            {
                 "minionName": "Twilight Emissary",
                 "tier": "3",
                 "tribe": "Dragon",
                 "imageLocation": "/img/TierThree/Dragon/TwilightEmissary.png"
-            },
-            {
-                "minionName": "Crackling Cyclone",
-                "tier": "3",
-                "tribe": "Elemental",
-                "imageLocation": "/img/TierThree/Elemental/CracklingCyclone.png"
             },
             {
                 "minionName": "Arcane Assistant",
@@ -318,22 +306,46 @@
                 "imageLocation": "/img/TierThree/Elemental/ArcaneAssistant.png"
             },
             {
-                "minionName": "Stasis Elemental",
+                "minionName": "Hangry Dragon",
                 "tier": "3",
-                "tribe": "Elemental",
-                "imageLocation": "/img/TierThree/Elemental/StasisElemental.png"
-            },
-            {
-                "minionName": "Deflect OBot",
-                "tier": "3",
-                "tribe": "Mech",
-                "imageLocation": "/img/TierThree/Mech/DeflectOBot.png"
+                "tribe": "Dragon",
+                "imageLocation": "/img/TierThree/Dragon/HangryDragon.png"
             },
             {
                 "minionName": "Iron Sensei",
                 "tier": "3",
                 "tribe": "Mech",
                 "imageLocation": "/img/TierThree/Mech/IronSensei.png"
+            },
+            {
+                "minionName": "Stasis Elemental",
+                "tier": "3",
+                "tribe": "Elemental",
+                "imageLocation": "/img/TierThree/Elemental/StasisElemental.png"
+            },
+            {
+                "minionName": "Deflect-o-Bot",
+                "tier": "3",
+                "tribe": "Mech",
+                "imageLocation": "/img/TierThree/Mech/Deflect-o-Bot.png"
+            },
+            {
+                "minionName": "Crackling Cyclone",
+                "tier": "3",
+                "tribe": "Elemental",
+                "imageLocation": "/img/TierThree/Elemental/CracklingCyclone.png"
+            },
+            {
+                "minionName": "Coldlight Seer",
+                "tier": "3",
+                "tribe": "Murloc",
+                "imageLocation": "/img/TierThree/Murloc/ColdlightSeer.png"
+            },
+            {
+                "minionName": "Replicating Menace",
+                "tier": "3",
+                "tribe": "Mech",
+                "imageLocation": "/img/TierThree/Mech/ReplicatingMenace.png"
             },
             {
                 "minionName": "Piloted Shredder",
@@ -348,28 +360,10 @@
                 "imageLocation": "/img/TierThree/Mech/ScrewjankClunker.png"
             },
             {
-                "minionName": "Southsea Strongarm",
-                "tier": "3",
-                "tribe": "Pirate",
-                "imageLocation": "/img/TierThree/Pirate/SouthseaStrongarm.png"
-            },
-            {
-                "minionName": "Salty Looter",
-                "tier": "3",
-                "tribe": "Pirate",
-                "imageLocation": "/img/TierThree/Pirate/SaltyLooter.png"
-            },
-            {
-                "minionName": "Shifter Zerus",
-                "tier": "3",
-                "tribe": "Neutral",
-                "imageLocation": "/img/TierThree/Neutral/ShifterZerus.png"
-            },
-            {
-                "minionName": "Coldlight Seer",
+                "minionName": "Felfin Navigator",
                 "tier": "3",
                 "tribe": "Murloc",
-                "imageLocation": "/img/TierThree/Murloc/ColdlightSeer.png"
+                "imageLocation": "/img/TierThree/Murloc/FelfinNavigator.png"
             },
             {
                 "minionName": "Khadgar",
@@ -384,22 +378,28 @@
                 "imageLocation": "/img/TierThree/Pirate/BloodsailCannoneer.png"
             },
             {
-                "minionName": "Replicating Menace",
+                "minionName": "Salty Looter",
                 "tier": "3",
-                "tribe": "Mech",
-                "imageLocation": "/img/TierThree/Mech/ReplicatingMenace.png"
+                "tribe": "Pirate",
+                "imageLocation": "/img/TierThree/Pirate/SaltyLooter.png"
             },
             {
-                "minionName": "Felfin Navigator",
+                "minionName": "Southsea Strongarm",
                 "tier": "3",
-                "tribe": "Murloc",
-                "imageLocation": "/img/TierThree/Murloc/FelfinNavigator.png"
+                "tribe": "Pirate",
+                "imageLocation": "/img/TierThree/Pirate/SouthseaStrongarm.png"
             },
             {
-                "minionName": "Crowd Favorite",
+                "minionName": "Warden of Old",
                 "tier": "3",
                 "tribe": "Neutral",
-                "imageLocation": "/img/TierThree/Neutral/CrowdFavorite.png"
+                "imageLocation": "/img/TierThree/Neutral/WardenOfOld.png"
+            },
+            {
+                "minionName": "Arm of the Empire",
+                "tier": "3",
+                "tribe": "Neutral",
+                "imageLocation": "/img/TierThree/Neutral/ArmOfTheEmpire.png"
             }
         ],
         "4": [
@@ -410,22 +410,28 @@
                 "imageLocation": "/img/TierFour/Beast/CaveHydra.png"
             },
             {
+                "minionName": "Wildfire Elemental",
+                "tier": "4",
+                "tribe": "Elemental",
+                "imageLocation": "/img/TierFour/Elemental/WildfireElemental.png"
+            },
+            {
                 "minionName": "Savannah Highmane",
                 "tier": "4",
                 "tribe": "Beast",
                 "imageLocation": "/img/TierFour/Beast/SavannahHighmane.png"
             },
             {
-                "minionName": "Virmen Sensei",
-                "tier": "4",
-                "tribe": "Beast",
-                "imageLocation": "/img/TierFour/Beast/VirmenSensei.png"
-            },
-            {
                 "minionName": "Floating Watcher",
                 "tier": "4",
                 "tribe": "Demon",
                 "imageLocation": "/img/TierFour/Demon/FloatingWatcher.png"
+            },
+            {
+                "minionName": "Drakonid Enforcer",
+                "tier": "4",
+                "tribe": "Dragon",
+                "imageLocation": "/img/TierFour/Dragon/DrakonidEnforcer.png"
             },
             {
                 "minionName": "Siegebreaker",
@@ -440,16 +446,10 @@
                 "imageLocation": "/img/TierFour/Dragon/CobaltScalebane.png"
             },
             {
-                "minionName": "Drakonid Enforcer",
+                "minionName": "Virmen Sensei",
                 "tier": "4",
-                "tribe": "Dragon",
-                "imageLocation": "/img/TierFour/Dragon/DrakonidEnforcer.png"
-            },
-            {
-                "minionName": "Herald Of Flame",
-                "tier": "4",
-                "tribe": "Dragon",
-                "imageLocation": "/img/TierFour/Dragon/HeraldOfFlame.png"
+                "tribe": "Beast",
+                "imageLocation": "/img/TierFour/Beast/VirmenSensei.png"
             },
             {
                 "minionName": "Majordomo Executus",
@@ -458,22 +458,22 @@
                 "imageLocation": "/img/TierFour/Elemental/MajordomoExecutus.png"
             },
             {
-                "minionName": "Wildfire Elemental",
-                "tier": "4",
-                "tribe": "Elemental",
-                "imageLocation": "/img/TierFour/Elemental/WildfireElemental.png"
-            },
-            {
-                "minionName": "Annoy OModule",
+                "minionName": "Annoy-o-Module",
                 "tier": "4",
                 "tribe": "Mech",
-                "imageLocation": "/img/TierFour/Mech/AnnoyOModule.png"
+                "imageLocation": "/img/TierFour/Mech/Annoy-o-Module.png"
             },
             {
-                "minionName": "Mechano Egg",
+                "minionName": "Herald of Flame",
+                "tier": "4",
+                "tribe": "Dragon",
+                "imageLocation": "/img/TierFour/Dragon/HeraldOfFlame.png"
+            },
+            {
+                "minionName": "Mechano-Egg",
                 "tier": "4",
                 "tribe": "Mech",
-                "imageLocation": "/img/TierFour/Mech/MechanoEgg.png"
+                "imageLocation": "/img/TierFour/Mech/Mechano-Egg.png"
             },
             {
                 "minionName": "Security Rover",
@@ -482,34 +482,28 @@
                 "imageLocation": "/img/TierFour/Mech/SecurityRover.png"
             },
             {
-                "minionName": "Primalfin Lookout",
-                "tier": "4",
-                "tribe": "Murloc",
-                "imageLocation": "/img/TierFour/Murloc/PrimalfinLookout.png"
-            },
-            {
                 "minionName": "Toxfin",
                 "tier": "4",
                 "tribe": "Murloc",
                 "imageLocation": "/img/TierFour/Murloc/Toxfin.png"
             },
             {
-                "minionName": "Goldgrubber",
+                "minionName": "Primalfin Lookout",
                 "tier": "4",
-                "tribe": "Pirate",
-                "imageLocation": "/img/TierFour/Pirate/Goldgrubber.png"
+                "tribe": "Murloc",
+                "imageLocation": "/img/TierFour/Murloc/PrimalfinLookout.png"
             },
             {
-                "minionName": "Ripsnarl Captain",
-                "tier": "4",
-                "tribe": "Pirate",
-                "imageLocation": "/img/TierFour/Pirate/RipsnarlCaptain.png"
-            },
-            {
-                "minionName": "Defender Of Argus",
+                "minionName": "Defender of Argus",
                 "tier": "4",
                 "tribe": "Neutral",
                 "imageLocation": "/img/TierFour/Neutral/DefenderOfArgus.png"
+            },
+            {
+                "minionName": "Bolvar, Fireblood",
+                "tier": "4",
+                "tribe": "Neutral",
+                "imageLocation": "/img/TierFour/Neutral/BolvarFireblood.png"
             },
             {
                 "minionName": "Menagerie Jug",
@@ -518,13 +512,43 @@
                 "imageLocation": "/img/TierFour/Neutral/MenagerieJug.png"
             },
             {
-                "minionName": "Bolvar Fireblood",
+                "minionName": "Ripsnarl Captain",
+                "tier": "4",
+                "tribe": "Pirate",
+                "imageLocation": "/img/TierFour/Pirate/RipsnarlCaptain.png"
+            },
+            {
+                "minionName": "Goldgrubber",
+                "tier": "4",
+                "tribe": "Pirate",
+                "imageLocation": "/img/TierFour/Pirate/Goldgrubber.png"
+            },
+            {
+                "minionName": "Bigfernal",
+                "tier": "4",
+                "tribe": "Demon",
+                "imageLocation": "/img/TierFour/Demon/Bigfernal.png"
+            },
+            {
+                "minionName": "Qiraji Harbinger",
                 "tier": "4",
                 "tribe": "Neutral",
-                "imageLocation": "/img/TierFour/Neutral/BolvarFireblood.png"
+                "imageLocation": "/img/TierFour/Neutral/QirajiHarbinger.png"
+            },
+            {
+                "minionName": "Champion of Y'Shaarj",
+                "tier": "4",
+                "tribe": "Neutral",
+                "imageLocation": "/img/TierFour/Neutral/ChampionOfY'Shaarj.png"
             }
         ],
         "5": [
+            {
+                "minionName": "Ironhide Direhorn",
+                "tier": "5",
+                "tribe": "Beast",
+                "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png"
+            },
             {
                 "minionName": "Mama Bear",
                 "tier": "5",
@@ -538,16 +562,10 @@
                 "imageLocation": "/img/TierFive/Demon/AnnihilanBattlemaster.png"
             },
             {
-                "minionName": "Mal Ganis",
+                "minionName": "Mal'Ganis",
                 "tier": "5",
                 "tribe": "Demon",
-                "imageLocation": "/img/TierFive/Demon/MalGanis.png"
-            },
-            {
-                "minionName": "Ironhide Direhorn",
-                "tier": "5",
-                "tribe": "Beast",
-                "imageLocation": "/img/TierFive/Beast/IronhideDirehorn.png"
+                "imageLocation": "/img/TierFive/Demon/Mal'Ganis.png"
             },
             {
                 "minionName": "Voidlord",
@@ -556,16 +574,16 @@
                 "imageLocation": "/img/TierFive/Demon/Voidlord.png"
             },
             {
-                "minionName": "Razorgore The Untamed",
+                "minionName": "Tavern Tempest",
+                "tier": "5",
+                "tribe": "Elemental",
+                "imageLocation": "/img/TierFive/Elemental/TavernTempest.png"
+            },
+            {
+                "minionName": "Razorgore, the Untamed",
                 "tier": "5",
                 "tribe": "Dragon",
                 "imageLocation": "/img/TierFive/Dragon/RazorgoreTheUntamed.png"
-            },
-            {
-                "minionName": "Nomi Kitchen Nightmare",
-                "tier": "5",
-                "tribe": "Elemental",
-                "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png"
             },
             {
                 "minionName": "Murozond",
@@ -574,34 +592,16 @@
                 "imageLocation": "/img/TierFive/Dragon/Murozond.png"
             },
             {
-                "minionName": "Tavern Tempest",
+                "minionName": "Nomi, Kitchen Nightmare",
                 "tier": "5",
                 "tribe": "Elemental",
-                "imageLocation": "/img/TierFive/Elemental/TavernTempest.png"
+                "imageLocation": "/img/TierFive/Elemental/NomiKitchenNightmare.png"
             },
             {
-                "minionName": "Baron Rivendare",
-                "tier": "5",
-                "tribe": "Neutral",
-                "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png"
-            },
-            {
-                "minionName": "Sneeds Old Shredder",
+                "minionName": "Sneed's Old Shredder",
                 "tier": "5",
                 "tribe": "Mech",
-                "imageLocation": "/img/TierFive/Mech/SneedsOldShredder.png"
-            },
-            {
-                "minionName": "Junkbot",
-                "tier": "5",
-                "tribe": "Mech",
-                "imageLocation": "/img/TierFive/Mech/Junkbot.png"
-            },
-            {
-                "minionName": "Brann Bronzebeard",
-                "tier": "5",
-                "tribe": "Neutral",
-                "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png"
+                "imageLocation": "/img/TierFive/Mech/Sneed'sOldShredder.png"
             },
             {
                 "minionName": "King Bagurgle",
@@ -610,10 +610,10 @@
                 "imageLocation": "/img/TierFive/Murloc/KingBagurgle.png"
             },
             {
-                "minionName": "Deadly Spore",
+                "minionName": "Junkbot",
                 "tier": "5",
-                "tribe": "Neutral",
-                "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png"
+                "tribe": "Mech",
+                "imageLocation": "/img/TierFive/Mech/Junkbot.png"
             },
             {
                 "minionName": "Lightfang Enforcer",
@@ -622,28 +622,58 @@
                 "imageLocation": "/img/TierFive/Neutral/LightfangEnforcer.png"
             },
             {
+                "minionName": "Baron Rivendare",
+                "tier": "5",
+                "tribe": "Neutral",
+                "imageLocation": "/img/TierFive/Neutral/BaronRivendare.png"
+            },
+            {
+                "minionName": "Deadly Spore",
+                "tier": "5",
+                "tribe": "Neutral",
+                "imageLocation": "/img/TierFive/Neutral/DeadlySpore.png"
+            },
+            {
                 "minionName": "Strongshell Scavenger",
                 "tier": "5",
                 "tribe": "Neutral",
                 "imageLocation": "/img/TierFive/Neutral/StrongshellScavenger.png"
             },
             {
-                "minionName": "Nat Pagle Extreme Angler",
+                "minionName": "Brann Bronzebeard",
+                "tier": "5",
+                "tribe": "Neutral",
+                "imageLocation": "/img/TierFive/Neutral/BrannBronzebeard.png"
+            },
+            {
+                "minionName": "Cap'n Hoggarr",
+                "tier": "5",
+                "tribe": "Pirate",
+                "imageLocation": "/img/TierFive/Pirate/Cap'nHoggarr.png"
+            },
+            {
+                "minionName": "Nat Pagle, Extreme Angler",
                 "tier": "5",
                 "tribe": "Pirate",
                 "imageLocation": "/img/TierFive/Pirate/NatPagleExtremeAngler.png"
-            },
-            {
-                "minionName": "Cap NHoggarr",
-                "tier": "5",
-                "tribe": "Pirate",
-                "imageLocation": "/img/TierFive/Pirate/CapNHoggarr.png"
             },
             {
                 "minionName": "Seabreaker Goliath",
                 "tier": "5",
                 "tribe": "Pirate",
                 "imageLocation": "/img/TierFive/Pirate/SeabreakerGoliath.png"
+            },
+            {
+                "minionName": "Faceless Taverngoer",
+                "tier": "5",
+                "tribe": "Neutral",
+                "imageLocation": "/img/TierFive/Neutral/FacelessTaverngoer.png"
+            },
+            {
+                "minionName": "Mythrax the Unraveler",
+                "tier": "5",
+                "tribe": "Neutral",
+                "imageLocation": "/img/TierFive/Neutral/MythraxTheUnraveler.png"
             }
         ],
         "6": [
@@ -654,28 +684,16 @@
                 "imageLocation": "/img/TierSix/Beast/Ghastcoiler.png"
             },
             {
-                "minionName": "Kalecgos Arcane Aspect",
+                "minionName": "Imp Mama",
                 "tier": "6",
-                "tribe": "Dragon",
-                "imageLocation": "/img/TierSix/Dragon/KalecgosArcaneAspect.png"
+                "tribe": "Demon",
+                "imageLocation": "/img/TierSix/Demon/ImpMama.png"
             },
             {
-                "minionName": "Nadina The Red",
-                "tier": "6",
-                "tribe": "Dragon",
-                "imageLocation": "/img/TierSix/Dragon/NadinaTheRed.png"
-            },
-            {
-                "minionName": "Maexxna",
+                "minionName": "Goldrinn, the Great Wolf",
                 "tier": "6",
                 "tribe": "Beast",
-                "imageLocation": "/img/TierSix/Beast/Maexxna.png"
-            },
-            {
-                "minionName": "Lieutenant Garr",
-                "tier": "6",
-                "tribe": "Elemental",
-                "imageLocation": "/img/TierSix/Elemental/LieutenantGarr.png"
+                "imageLocation": "/img/TierSix/Beast/GoldrinnTheGreatWolf.png"
             },
             {
                 "minionName": "Gentle Djinni",
@@ -684,28 +702,34 @@
                 "imageLocation": "/img/TierSix/Elemental/GentleDjinni.png"
             },
             {
-                "minionName": "Goldrinn The Great Wolf",
+                "minionName": "Maexxna",
                 "tier": "6",
                 "tribe": "Beast",
-                "imageLocation": "/img/TierSix/Beast/GoldrinnTheGreatWolf.png"
+                "imageLocation": "/img/TierSix/Beast/Maexxna.png"
             },
             {
-                "minionName": "Imp Mama",
+                "minionName": "Kalecgos, Arcane Aspect",
                 "tier": "6",
-                "tribe": "Demon",
-                "imageLocation": "/img/TierSix/Demon/ImpMama.png"
+                "tribe": "Dragon",
+                "imageLocation": "/img/TierSix/Dragon/KalecgosArcaneAspect.png"
             },
             {
-                "minionName": "Lil Rag",
+                "minionName": "Lil' Rag",
                 "tier": "6",
                 "tribe": "Elemental",
-                "imageLocation": "/img/TierSix/Elemental/LilRag.png"
+                "imageLocation": "/img/TierSix/Elemental/Lil'Rag.png"
             },
             {
-                "minionName": "Amalgadon",
+                "minionName": "Lieutenant Garr",
                 "tier": "6",
-                "tribe": "Neutral",
-                "imageLocation": "/img/TierSix/Neutral/Amalgadon.png"
+                "tribe": "Elemental",
+                "imageLocation": "/img/TierSix/Elemental/LieutenantGarr.png"
+            },
+            {
+                "minionName": "Nadina the Red",
+                "tier": "6",
+                "tribe": "Dragon",
+                "imageLocation": "/img/TierSix/Dragon/NadinaTheRed.png"
             },
             {
                 "minionName": "Foe Reaper 4000",
@@ -714,10 +738,10 @@
                 "imageLocation": "/img/TierSix/Mech/FoeReaper4000.png"
             },
             {
-                "minionName": "Kangors Apprentice",
+                "minionName": "Amalgadon",
                 "tier": "6",
-                "tribe": "Mech",
-                "imageLocation": "/img/TierSix/Mech/KangorsApprentice.png"
+                "tribe": "Neutral",
+                "imageLocation": "/img/TierSix/Neutral/Amalgadon.png"
             },
             {
                 "minionName": "Zapp Slywick",
@@ -726,16 +750,28 @@
                 "imageLocation": "/img/TierSix/Neutral/ZappSlywick.png"
             },
             {
+                "minionName": "Dread Admiral Eliza",
+                "tier": "6",
+                "tribe": "Pirate",
+                "imageLocation": "/img/TierSix/Pirate/DreadAdmiralEliza.png"
+            },
+            {
                 "minionName": "The Tide Razor",
                 "tier": "6",
                 "tribe": "Pirate",
                 "imageLocation": "/img/TierSix/Pirate/TheTideRazor.png"
             },
             {
-                "minionName": "Dread Admiral Eliza",
+                "minionName": "Kangor's Apprentice",
                 "tier": "6",
-                "tribe": "Pirate",
-                "imageLocation": "/img/TierSix/Pirate/DreadAdmiralEliza.png"
+                "tribe": "Mech",
+                "imageLocation": "/img/TierSix/Mech/Kangor'sApprentice.png"
+            },
+            {
+                "minionName": "Elistra the Immortal",
+                "tier": "6",
+                "tribe": "Neutral",
+                "imageLocation": "/img/TierSix/Neutral/ElistraTheImmortal.png"
             }
         ]
     }
