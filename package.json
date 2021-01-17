@@ -40,9 +40,14 @@
   },
   "jest": {
     "collectCoverage": true,
-    "collectCoverageFrom": ["*.js", "routes/*.js", "service/*.js", "model/*.js"],
-    "testPathIgnorePatterns" : [
-        "hearthstone-battlegrounds-simulator-client/" 
-      ]
+    "collectCoverageFrom": [
+      "*.js",
+      "routes/*.js",
+      "service/*.js",
+      "model/*.js"
+    ],
+    "testPathIgnorePatterns": [
+      "hearthstone-battlegrounds-simulator-client/"
+    ]
   }
 }
