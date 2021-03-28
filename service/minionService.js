@@ -38,7 +38,19 @@ const minionPoolAtTier = async (tier) => {
     return minionPool;
 };
 
+const getMinion = async (name) => {
+    const minion = await Minion.findOne({ minionName: name });
+    const { minionName, tier, tribe, imageLocation } = minion;
+    return {
+        minionName,
+        tier,
+        tribe,
+        imageLocation
+    };
+};
+
 module.exports = {
     uniqueMinions,
-    minionPoolAtTier
+    minionPoolAtTier,
+    getMinion
 };

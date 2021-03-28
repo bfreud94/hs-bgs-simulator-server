@@ -24,7 +24,7 @@ class MinionPool extends Component {
 
     componentDidMount() {
         const { pool, tier } = store.getState();
-        if (pool.length === 0) {
+        if (pool.minionPool.length === 0) {
             this.props.uniqueMinions();
             this.props.addTavernMinionsToPool(tier);
         } else {
@@ -83,6 +83,7 @@ class MinionPool extends Component {
         if (tier !== 6) {
             this.props.setTier(tier + 1);
             this.props.addTavernMinionsToPool(tier + 1);
+            this.props.getCurrentRoll(tier + 1);
         }
     }
 
@@ -114,7 +115,8 @@ class MinionPool extends Component {
     oddsToRollMinionOnSpecificTier = () => {
         const { minionSelected } = this.state;
         const { tier } = store.getState();
-        const minionPool = store.getState().pool.minionPool.filter((minion) => minion.tier <= tier);
+        let minionPool = store.getState().pool.minionPool.filter((minion) => minion.tier <= tier);
+        minionPool = [...minionPool, ...store.getState().currentRoll.minions];
         const amountOfCertainMinion = minionPool.filter((minion) => minion.minionName === minionSelected).length;
         const tierToMinionsMap = { 1: 3, 2: 4, 3: 4, 4: 5, 5: 5, 6: 6 };
         let odds = 1;
@@ -130,10 +132,10 @@ class MinionPool extends Component {
 
     oddsToRollAUnitOfSpecificTier = () => {
         const { menuTier } = this.state;
-        const { tier } = store.getState();
-        let minionPool = store.getState().pool.minionPool.filter((minion) => minion.tier <= tier);
+        const { tier, currentRoll, pool } = store.getState();
+        let minionPool = [...pool.minionPool, ...currentRoll.minions];
         let denominator = minionPool.length;
-        minionPool = minionPool.filter((minion) => minion.tier !== menuTier);
+        minionPool = minionPool.filter((minion) => parseInt(minion.tier) !== menuTier);
         let odds = 1;
         let numerator = minionPool.length;
         const tierToMinionsMap = { 1: 3, 2: 4, 3: 4, 4: 5, 5: 5, 6: 6 };
@@ -204,10 +206,10 @@ class MinionPool extends Component {
 
     tableCards = (minions) => {
         const { currentTab, menuTier, minionSelected } = this.state;
-        const { tier } = store.getState();
+        const { tier, currentRoll } = store.getState();
         const set = new Set();
         minions = minions.filter((minion) => minion.tier <= tier);
-        const poolSize = minions.length;
+        const poolSize = minions.length + currentRoll.minions.length;
         const amountOfMinionInPool = minions.filter((minion) => minion.minionName === minionSelected).length;
         minions = minions.filter((minion) => minion.tier === menuTier);
         const tierMinionsInPool = minions.length;

@@ -51,11 +51,12 @@ export const removeMinion = (minionToRemove) => (dispatch) => {
     });
 };
 
-export const addMinion = (minionToAdd, tier) => (dispatch) => {
+export const addMinion = (minionToAdd, tier) => async (dispatch) => {
+    const minion = await (await fetch(`${serverUri}/api/minion?name=${minionToAdd}`)).json();
     dispatch({
         type: ADD_MINION,
         payload: {
-            minionToAdd,
+            minion,
             tier
         }
     });

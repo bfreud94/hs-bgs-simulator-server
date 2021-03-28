@@ -40,12 +40,13 @@ export default function (state = initialState, action) {
                 minions
             };
         } case ADD_MINION: {
-            const { minionPool } = state.minionPool;
-            const { minionToAdd, tier } = action.payload;
-            const amountOfMinionCopies = minionPool.filter((minion) => minion.minionName === minionToAdd).length;
+            const { minionPool } = state;
+            const { minion, tier } = action.payload;
+            const { minionName } = minion;
+            const amountOfMinionCopies = minionPool.filter((minion) => minion.minionName === minionName).length;
             const amountOfMinionsPerTier = { 1: 16, 2: 15, 3: 13, 4: 11, 5: 9, 6: 7 };
             if (amountOfMinionCopies < amountOfMinionsPerTier[tier]) {
-                minionPool.push({ minionName: minionToAdd, tier });
+                minionPool.push(minion);
             }
             return {
                 ...state,
