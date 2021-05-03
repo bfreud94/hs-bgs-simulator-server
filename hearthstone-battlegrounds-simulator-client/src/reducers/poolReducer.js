@@ -3,7 +3,7 @@ import { ADD_MINION, ADD_TAVERN_MINIONS_TO_POOL, ADD_TRIBE, REMOVE_TAVERN_MINION
 const initialState = {
     uniqueMinions: [],
     minionPool: [],
-    tribes: ['Beast', 'Demon', 'Dragon', 'Elemental', 'Mech', 'Murloc', 'Neutral', 'Pirate']
+    tribes: ['Beast', 'Demon', 'Dragon', 'Elemental', 'Mech', 'Murloc', 'Neutral', 'Pirate', 'Quilboar']
 };
 
 export default function (state = initialState, action) {
