@@ -1,12 +1,12 @@
 {
-  "name": "server",
+  "name": "hs-bgs-simulator-server",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "client-install": "npm install --prefix hearthstone-battlegrounds-simulator-client",
-    "start": "node server.js",
-    "dev": "nodemon server.js",
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "database-loader": "node databaseLoader.js",
     "test": "jest --testEnvironment=node --coverage --detectOpenHandles --no-cache --forceExit",
     "integration-tests": "jest --testPathPattern=test/integration/ --testEnvironment=node --coverage=false --detectOpenHandles --no-cache --forceExit",
