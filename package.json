@@ -6,10 +6,7 @@
   "scripts": {
     "client-install": "npm install --prefix hearthstone-battlegrounds-simulator-client",
     "start": "node server.js",
-    "start-server": "nodemon server.js",
-    "client": "npm start --prefix hearthstone-battlegrounds-simulator-client",
-    "dev": "concurrently \"cd hearthstone-battlegrounds-simulator-client && npm start\" \"nodemon server.js\"",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix hearthstone-battlegrounds-simulator-client && npm run build --prefix hearthstone-battlegrounds-simulator-client",
+    "dev": "nodemon server.js",
     "database-loader": "node databaseLoader.js",
     "test": "jest --testEnvironment=node --coverage --detectOpenHandles --no-cache --forceExit",
     "integration-tests": "jest --testPathPattern=test/integration/ --testEnvironment=node --coverage=false --detectOpenHandles --no-cache --forceExit",
@@ -20,7 +17,6 @@
   "license": "ISC",
   "dependencies": {
     "chai": "^4.2.0",
-    "concurrently": "^5.2.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "eslint": "^7.13.0",
