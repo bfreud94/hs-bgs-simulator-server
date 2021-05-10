@@ -28,7 +28,7 @@ app.use(helmet());
 
 // Use CORS
 app.use(cors({
-    origin: process.env.NODE_ENV.trim() === 'development' ? 'http://localhost:3000' : ''
+    origin: process.env.NODE_ENV.trim() === 'development' ? 'http://localhost:3000' : 'https://hs-bgs-simulator-client.vercel.app'
 }));
 
 // Use Express Routes
