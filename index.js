@@ -37,14 +37,6 @@ app.use('/api/', minionRoute);
 // Use static content
 app.use('/assets', express.static(path.join(__dirname, 'assets')));
 
-if (process.env.NODE_ENV === 'production') {
-    // Set static folder
-    app.use(express.static('hearthstone-battlegrounds-simulator-client/build'));
-    app.get('*', (req, res) => {
-        res.sendFile(path.resolve(__dirname, 'hearthstone-battlegrounds-simulator-client', 'build', 'index.html'));
-    });
-}
-
 // Starting server
 app.listen(port, () => {
     connect();
