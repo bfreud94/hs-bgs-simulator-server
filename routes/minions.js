@@ -24,7 +24,9 @@ router.post(('/addMinion'), async (request, response) => {
         if (addedMinion) {
             response.send(addedMinion);
         } else {
-            response.send("Failed to add minion");
+            response.send({
+                error: 'Failed to add minion'
+            });
         }
     }
 });
