@@ -36,6 +36,9 @@ const minionPoolAtTier = async (inTier) => {
 
 const getMinion = async (name) => {
     const minion = await Minion.findOne({ minionName: name });
+    if (!minion) {
+        return null;
+    }
     const { minionName, tier, tribe, imageLocation } = minion;
     return {
         minionName,
@@ -45,8 +48,19 @@ const getMinion = async (name) => {
     };
 };
 
+const addMinion = async (minion) => {
+    if (process.env.ENV === 'development') {
+        const newMinion = new Minion(minion);
+        await newMinion.save();
+        return newMinion;
+    } else {
+        return null;
+    }
+};
+
 module.exports = {
     uniqueMinions,
     minionPoolAtTier,
-    getMinion
+    getMinion,
+    addMinion
 };
